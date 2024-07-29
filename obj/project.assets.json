@@ -1924,23 +1924,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dario\\.nuget\\packages\\": {},
+    "C:\\Users\\Admin.DT-ELE1\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Develop\\CityInfo.API\\CityInfo.API.csproj",
+      "projectUniqueName": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\CityInfo.API.csproj",
       "projectName": "CityInfo.API",
-      "projectPath": "C:\\Develop\\CityInfo.API\\CityInfo.API.csproj",
-      "packagesPath": "C:\\Users\\dario\\.nuget\\packages\\",
-      "outputPath": "C:\\Develop\\CityInfo.API\\obj\\",
+      "projectPath": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\CityInfo.API.csproj",
+      "packagesPath": "C:\\Users\\Admin.DT-ELE1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\dario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin.DT-ELE1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2009,7 +2009,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
