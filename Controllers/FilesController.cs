@@ -49,7 +49,11 @@ namespace CityInfo.API.Controllers
             if (file.Length == 0 || file.Length > 20971520
                 || file.ContentType != "application/pdf")
             {
+<<<<<<< HEAD
                 return BadRequest("No file or an invalid one has been PROVA PROVA inputted");
+=======
+                return BadRequest("No file or an invalid one has been inputted");
+>>>>>>> parent of c0d9794 (commit test)
             }
 
             // Create the file path. Avoid using file.FileName, as an attacker can provide a
