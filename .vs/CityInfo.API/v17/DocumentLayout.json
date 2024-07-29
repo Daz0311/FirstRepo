@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Develop\\CityInfo.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\services\\cloudmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:services\\cloudmailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:services\\imailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\services\\localmailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:services\\localmailservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\models\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:models\\pointofinterestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\models\\pointofinterestforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:models\\pointofinterestforupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:citiesdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:models\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\develop\\cityinfo.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PointsOfInterestController.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PointsOfInterestController.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Controllers\\PointsOfInterestController.cs",
+              "RelativeToolTip": "Controllers\\PointsOfInterestController.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAAALIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:34:52.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "Controllers\\FilesController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T15:55:09.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PointOfInterestDto.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Models\\PointOfInterestDto.cs",
+              "RelativeDocumentMoniker": "Models\\PointOfInterestDto.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Models\\PointOfInterestDto.cs",
+              "RelativeToolTip": "Models\\PointOfInterestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:48:37.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Controllers\\CitiesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T15:24:49.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalMailServices.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Services\\LocalMailServices.cs",
+              "RelativeDocumentMoniker": "Services\\LocalMailServices.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Services\\LocalMailServices.cs",
+              "RelativeToolTip": "Services\\LocalMailServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:52:21.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CloudMailService.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Services\\CloudMailService.cs",
+              "RelativeDocumentMoniker": "Services\\CloudMailService.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Services\\CloudMailService.cs",
+              "RelativeToolTip": "Services\\CloudMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:47:38.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMailService.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Services\\IMailService.cs",
+              "RelativeDocumentMoniker": "Services\\IMailService.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Services\\IMailService.cs",
+              "RelativeToolTip": "Services\\IMailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:47:08.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PointOfInterestForUpdateDto.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Models\\PointOfInterestForUpdateDto.cs",
+              "RelativeDocumentMoniker": "Models\\PointOfInterestForUpdateDto.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Models\\PointOfInterestForUpdateDto.cs",
+              "RelativeToolTip": "Models\\PointOfInterestForUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T07:03:36.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CitiesDataStore.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\CitiesDataStore.cs",
+              "RelativeDocumentMoniker": "CitiesDataStore.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\CitiesDataStore.cs",
+              "RelativeToolTip": "CitiesDataStore.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:40:18.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:49:42.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T08:38:55.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CityDto.cs",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Models\\CityDto.cs",
+              "RelativeDocumentMoniker": "Models\\CityDto.cs",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Models\\CityDto.cs",
+              "RelativeToolTip": "Models\\CityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T09:34:08.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Develop\\CityInfo.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Develop\\CityInfo.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T10:56:12.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
