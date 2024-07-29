@@ -12,13 +12,13 @@ namespace CityInfo.API.Controllers
     public class PointsOfInterestController : ControllerBase
     {
         private readonly ILogger<PointsOfInterestController> _logger;
-        private readonly LocalMailService _mailService;
+        private readonly IMailService _mailService;
 
         public PointsOfInterestController(ILogger<PointsOfInterestController> logger,
-            LocalMailService localMailService)
+            IMailService mailService)
         {
             _logger = logger ?? throw new ArgumentNullException(nameof(logger));
-            this._mailService = localMailService ?? throw new ArgumentNullException(nameof(localMailService));
+            _mailService = mailService ?? throw new ArgumentNullException(nameof(mailService));
         }
 
         [HttpGet]
