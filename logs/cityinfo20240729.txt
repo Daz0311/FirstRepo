@@ -92,3 +92,52 @@ System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport 
 2024-07-29 12:59:00.692 +02:00 [INF] Executed endpoint 'CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API)'
 2024-07-29 12:59:00.696 +02:00 [DBG] Connection id "0HN5FNKO54ABQ" completed keep alive response.
 2024-07-29 12:59:00.699 +02:00 [INF] Request finished HTTP/1.1 DELETE https://localhost:7079/api/cities/1/pointsofinterest/1 - 204 null null 198.1685ms
+2024-07-29 14:40:30.104 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 14:40:30.253 +02:00 [DBG] Hosting starting
+2024-07-29 14:40:30.518 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 14:40:30.520 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 14:40:30.522 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 14:40:30.524 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 14:40:30.525 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 14:40:30.527 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 14:40:30.528 +02:00 [INF] Hosting environment: Development
+2024-07-29 14:40:30.529 +02:00 [INF] Content root path: C:\Develop\CityInfo.API
+2024-07-29 14:40:30.530 +02:00 [DBG] Hosting started
+2024-07-29 14:40:30.618 +02:00 [DBG] Connection id "0HN5FPEGRG0TJ" accepted.
+2024-07-29 14:40:30.622 +02:00 [DBG] Connection id "0HN5FPEGRG0TJ" started.
+2024-07-29 14:40:30.626 +02:00 [DBG] Connection id "0HN5FPEGRG0TK" accepted.
+2024-07-29 14:40:30.628 +02:00 [DBG] Connection id "0HN5FPEGRG0TK" started.
+2024-07-29 14:40:30.649 +02:00 [DBG] Connection id "0HN5FPEGRG0TK" received FIN.
+2024-07-29 14:40:30.649 +02:00 [DBG] Connection id "0HN5FPEGRG0TJ" received FIN.
+2024-07-29 14:40:30.666 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 14:40:30.666 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 14:40:30.720 +02:00 [DBG] Connection id "0HN5FPEGRG0TK" stopped.
+2024-07-29 14:40:30.720 +02:00 [DBG] Connection id "0HN5FPEGRG0TJ" stopped.
+2024-07-29 14:40:30.728 +02:00 [DBG] Connection id "0HN5FPEGRG0TJ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 14:40:30.728 +02:00 [DBG] Connection id "0HN5FPEGRG0TK" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 14:40:31.462 +02:00 [DBG] Connection id "0HN5FPEGRG0TL" accepted.
+2024-07-29 14:40:31.515 +02:00 [DBG] Connection id "0HN5FPEGRG0TL" started.
+2024-07-29 14:40:31.721 +02:00 [DBG] Connection 0HN5FPEGRG0TL established using the following protocol: "Tls13"
+2024-07-29 14:40:31.839 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/index.html - null null
+2024-07-29 14:40:32.096 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 14:40:32.200 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-07-29 14:40:32.204 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-07-29 14:40:32.228 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-07-29 14:40:32.230 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-07-29 14:40:32.236 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/index.html - 200 null text/html;charset=utf-8 406.6975ms
+2024-07-29 14:40:32.251 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-29 14:40:32.251 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/_vs/browserLink - null null
+2024-07-29 14:40:32.274 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 23.4658ms
+2024-07-29 14:40:32.462 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/_vs/browserLink - 200 null text/javascript; charset=UTF-8 212.0291ms
+2024-07-29 14:40:32.718 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - null null
+2024-07-29 14:40:32.970 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 253.1229ms
