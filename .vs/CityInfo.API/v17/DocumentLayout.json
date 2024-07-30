@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -78,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -92,58 +88,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.production.json",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\appsettings.production.json",
-              "RelativeDocumentMoniker": "appsettings.production.json",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\appsettings.production.json",
-              "RelativeToolTip": "appsettings.production.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-29T15:52:29.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-29T15:36:39.155Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "CloudMailService.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Services\\CloudMailService.cs",
               "RelativeDocumentMoniker": "Services\\CloudMailService.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Services\\CloudMailService.cs",
               "RelativeToolTip": "Services\\CloudMailService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T14:47:38.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LocalMailServices.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Services\\LocalMailServices.cs",
               "RelativeDocumentMoniker": "Services\\LocalMailServices.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Services\\LocalMailServices.cs",
               "RelativeToolTip": "Services\\LocalMailServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T13:52:21.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -156,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "IMailService.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Services\\IMailService.cs",
               "RelativeDocumentMoniker": "Services\\IMailService.cs",
@@ -169,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "PointOfInterestDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Models\\PointOfInterestDto.cs",
               "RelativeDocumentMoniker": "Models\\PointOfInterestDto.cs",
@@ -181,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "CitiesController.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Controllers\\CitiesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
@@ -194,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "PointOfInterestForUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Models\\PointOfInterestForUpdateDto.cs",
               "RelativeDocumentMoniker": "Models\\PointOfInterestForUpdateDto.cs",
@@ -206,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -219,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "PointsOfInterestController.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Controllers\\PointsOfInterestController.cs",
               "RelativeDocumentMoniker": "Controllers\\PointsOfInterestController.cs",
@@ -232,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "CitiesDataStore.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\CitiesDataStore.cs",
               "RelativeDocumentMoniker": "CitiesDataStore.cs",
@@ -244,7 +227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "FilesController.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Controllers\\FilesController.cs",
               "RelativeDocumentMoniker": "Controllers\\FilesController.cs",
@@ -256,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "CityDto.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Models\\CityDto.cs",
               "RelativeDocumentMoniker": "Models\\CityDto.cs",
