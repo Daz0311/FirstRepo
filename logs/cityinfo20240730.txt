@@ -1,0 +1,109 @@
+2024-07-30 12:00:00.986 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:00:01.248 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:00:01.481 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:00:16.811 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:00:17.070 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:00:17.254 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:00:33.329 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:00:33.585 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:00:33.810 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:00:58.518 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:00:58.805 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:00:59.094 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:03:13.220 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:03:13.478 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:03:13.487 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:03:13.489 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:03:46.003 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:03:46.278 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:03:46.287 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:03:46.290 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:20:15.850 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:20:16.113 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:20:16.358 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:20:22.677 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:20:22.930 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:20:22.938 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:20:22.941 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:29:40.746 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:29:41.003 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:29:41.012 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:29:41.014 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:35:08.699 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:35:08.984 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:35:08.994 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:35:08.997 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:35:48.130 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:35:48.445 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:35:48.456 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:35:48.459 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:36:55.440 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:36:55.699 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:36:55.926 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:37:03.020 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:37:03.338 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:37:03.349 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:37:03.353 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:44:27.176 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:44:27.487 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:44:27.762 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:44:35.117 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:44:35.373 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:44:35.382 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:44:35.384 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:45:22.548 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:45:22.807 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:45:23.063 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:45:26.969 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:45:27.228 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:45:27.239 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:45:27.242 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:48:08.219 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:48:08.482 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:48:08.491 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:48:08.493 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:49:18.200 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:49:18.456 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:49:18.679 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:49:23.169 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:49:23.433 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:49:23.442 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:49:23.444 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:55:01.242 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:55:01.532 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:55:01.907 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:55:08.572 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:55:08.836 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-30 12:55:08.844 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:55:08.847 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 12:58:15.350 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 12:58:15.620 +02:00 [DBG] Entity Framework Core 8.0.7 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.7' with options: None
+2024-07-30 12:58:15.629 +02:00 [DBG] Creating DbConnection.
+2024-07-30 12:58:15.632 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 13:00:26.413 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 13:00:26.672 +02:00 [DBG] Entity Framework Core 8.0.7 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.7' with options: None
+2024-07-30 13:00:26.681 +02:00 [DBG] Creating DbConnection.
+2024-07-30 13:00:26.684 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 13:01:44.347 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 13:01:44.611 +02:00 [DBG] Entity Framework Core 8.0.7 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.7' with options: None
+2024-07-30 13:01:44.620 +02:00 [DBG] Creating DbConnection.
+2024-07-30 13:01:44.622 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 13:02:10.264 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 13:02:10.520 +02:00 [DBG] Entity Framework Core 8.0.7 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.7' with options: None
+2024-07-30 13:02:10.528 +02:00 [DBG] Creating DbConnection.
+2024-07-30 13:02:10.530 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 13:02:25.325 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 13:02:25.587 +02:00 [DBG] Entity Framework Core 8.0.7 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.7' with options: None
+2024-07-30 13:02:25.596 +02:00 [DBG] Creating DbConnection.
+2024-07-30 13:02:25.598 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 13:02:37.983 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 13:02:38.242 +02:00 [DBG] Entity Framework Core 8.0.7 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.7' with options: None
+2024-07-30 13:02:38.250 +02:00 [DBG] Creating DbConnection.
+2024-07-30 13:02:38.253 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 13:02:55.664 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 13:02:55.920 +02:00 [DBG] Entity Framework Core 8.0.7 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.7' with options: None
+2024-07-30 13:02:56.143 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-30 13:03:04.466 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-30 13:03:04.725 +02:00 [DBG] Entity Framework Core 8.0.7 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.7' with options: None
+2024-07-30 13:03:04.733 +02:00 [DBG] Creating DbConnection.
+2024-07-30 13:03:04.735 +02:00 [DBG] 'CityInfoContext' disposed.

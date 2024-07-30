@@ -1,4 +1,8 @@
-﻿namespace CityInfo.API.Services
+﻿using System.Net.Mail;
+using System.Net;
+
+
+namespace CityInfo.API.Services
 {
     public class CloudMailService : IMailService
     {
@@ -19,5 +23,15 @@
             Console.WriteLine($"Subject: {subject}");
             Console.WriteLine($"Message: {message}");
         }
+
+        //var client = new SmtpClient("sandbox.smtp.mailtrap.io", 2525)
+        //{
+        //    Credentials = new NetworkCredential("d0ec4d1ebe9c9a", "********3637"),
+        //    EnableSsl = true
+        //};
+
+        //client.Send("from@example.com", "to@example.com", "Hello world", "testbody");
+        //System.Console.WriteLine("Sent");
+        //}
     }
 }
