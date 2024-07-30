@@ -5,7 +5,7 @@
 namespace CityInfo.API.Migrations
 {
     /// <inheritdoc />
-    public partial class CityInfoDBInitial : Migration
+    public partial class CityInfoDBInitialMigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

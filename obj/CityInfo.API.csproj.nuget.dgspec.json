@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\CityInfo.API.csproj": {}
+    "C:\\Develop\\FirstRepo\\CityInfo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\CityInfo.API.csproj": {
+    "C:\\Develop\\FirstRepo\\CityInfo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\CityInfo.API.csproj",
+        "projectUniqueName": "C:\\Develop\\FirstRepo\\CityInfo.API.csproj",
         "projectName": "CityInfo.API",
-        "projectPath": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\CityInfo.API.csproj",
-        "packagesPath": "C:\\Users\\Admin.DT-ELE1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\obj\\",
+        "projectPath": "C:\\Develop\\FirstRepo\\CityInfo.API.csproj",
+        "packagesPath": "C:\\Users\\dario\\.nuget\\packages\\",
+        "outputPath": "C:\\Develop\\FirstRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin.DT-ELE1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -60,13 +60,13 @@
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.0, )"
             },
             "Serilog.AspNetCore": {
               "target": "Package",
@@ -78,7 +78,7 @@
             },
             "microsoft.entityframeworkcore": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -100,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

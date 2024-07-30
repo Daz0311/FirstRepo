@@ -5,21 +5,22 @@ namespace CityInfo.API.DbContexts
 {
     public class CityInfoContext : DbContext
     {
-        public DbSet<City> Cities { get; set; }
-        public DbSet<PointOfInterest> PointOfInterests { get; set; }
+        
 
         public CityInfoContext(DbContextOptions<CityInfoContext> options)
             : base(options)
         {
         }
 
+        public DbSet<City> Cities { get; set; }
+        public DbSet<PointOfInterest> PointOfInterests { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlite("connectionstring");
+        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        //{
+        //    optionsBuilder.UseSqlite("connectionstring");
 
-            base.OnConfiguring(optionsBuilder);
-        }
+        //    base.OnConfiguring(optionsBuilder);
+        //}
 
     }
 }
