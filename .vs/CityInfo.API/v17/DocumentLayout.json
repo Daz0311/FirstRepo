@@ -1,57 +1,52 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730105501_CityInfoDBInitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240730105501_CityInfoDBInitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730105501_CityInfoDBInitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\entities\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\entities\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:entities\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104523_CityInfoDBInitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240730104523_CityInfoDBInitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104523_CityInfoDBInitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104918_CityInfoDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240730104918_CityInfoDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104918_CityInfoDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730103655_CityInfoDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240730103655_CityInfoDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730103655_CityInfoDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730100033_CityInfoDBInitialMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240730100033_CityInfoDBInitialMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730100033_CityInfoDBInitialMigration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\development\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,16 +57,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 327,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "20240730104918_CityInfoDB.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104918_CityInfoDB.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240730104918_CityInfoDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730104918_CityInfoDB.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104918_CityInfoDB.cs",
-              "RelativeToolTip": "Migrations\\20240730104918_CityInfoDB.cs",
+              "RelativeToolTip": "..\\..\\Development\\Migrations\\20240730104918_CityInfoDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T10:49:18.77Z"
@@ -80,11 +79,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAA9AAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T09:33:08.742Z",
               "EditorCaption": ""
@@ -94,9 +93,9 @@
               "DocumentIndex": 5,
               "Title": "20240730104523_CityInfoDBInitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104523_CityInfoDBInitialMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240730104523_CityInfoDBInitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730104523_CityInfoDBInitialMigration.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104523_CityInfoDBInitialMigration.cs",
-              "RelativeToolTip": "Migrations\\20240730104523_CityInfoDBInitialMigration.cs",
+              "RelativeToolTip": "..\\..\\Development\\Migrations\\20240730104523_CityInfoDBInitialMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T10:45:23.134Z"
@@ -105,22 +104,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T10:05:24.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T10:05:24.798Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -130,9 +128,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Controllers\\CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\CitiesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\CitiesController.cs",
               "RelativeToolTip": "Controllers\\CitiesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,9 +141,9 @@
               "DocumentIndex": 10,
               "Title": "20240730100033_CityInfoDBInitialMigration2.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730100033_CityInfoDBInitialMigration2.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240730100033_CityInfoDBInitialMigration2.cs",
+              "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730100033_CityInfoDBInitialMigration2.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730100033_CityInfoDBInitialMigration2.cs",
-              "RelativeToolTip": "Migrations\\20240730100033_CityInfoDBInitialMigration2.cs",
+              "RelativeToolTip": "..\\..\\Development\\Migrations\\20240730100033_CityInfoDBInitialMigration2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T10:00:33.897Z"
@@ -154,11 +152,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CityInfoContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\DbContexts\\CityInfoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\DbContexts\\CityInfoContext.cs",
               "RelativeDocumentMoniker": "DbContexts\\CityInfoContext.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\DbContexts\\CityInfoContext.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\DbContexts\\CityInfoContext.cs",
               "RelativeToolTip": "DbContexts\\CityInfoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T09:29:08.781Z",
               "EditorCaption": ""
@@ -168,24 +166,20 @@
               "DocumentIndex": 3,
               "Title": "20240730105501_CityInfoDBInitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730105501_CityInfoDBInitialMigration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240730105501_CityInfoDBInitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730105501_CityInfoDBInitialMigration.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730105501_CityInfoDBInitialMigration.cs",
-              "RelativeToolTip": "Migrations\\20240730105501_CityInfoDBInitialMigration.cs",
+              "RelativeToolTip": "..\\..\\Development\\Migrations\\20240730105501_CityInfoDBInitialMigration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T10:55:02.188Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PointOfInterest.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Entities\\PointOfInterest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Entities\\PointOfInterest.cs",
               "RelativeDocumentMoniker": "Entities\\PointOfInterest.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Entities\\PointOfInterest.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Entities\\PointOfInterest.cs",
               "RelativeToolTip": "Entities\\PointOfInterest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -196,9 +190,9 @@
               "DocumentIndex": 7,
               "Title": "20240730103655_CityInfoDB.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730103655_CityInfoDB.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240730103655_CityInfoDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730103655_CityInfoDB.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730103655_CityInfoDB.cs",
-              "RelativeToolTip": "Migrations\\20240730103655_CityInfoDB.cs",
+              "RelativeToolTip": "..\\..\\Development\\Migrations\\20240730103655_CityInfoDB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T10:36:55.983Z"
@@ -207,9 +201,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Entities\\City.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Entities\\City.cs",
               "RelativeDocumentMoniker": "Entities\\City.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Entities\\City.cs",
               "RelativeToolTip": "Entities\\City.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -219,9 +213,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -233,6 +227,10 @@
           "DockedWidth": 73,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
