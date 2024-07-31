@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CityInfo.API.Migrations
 {
     [DbContext(typeof(CityInfoContext))]
-    [Migration("20240731091334_InitialDataSeed")]
+    [Migration("20240731100049_InitialDataSeed")]
     partial class InitialDataSeed
     {
         /// <inheritdoc />
