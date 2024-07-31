@@ -1,0 +1,1149 @@
+2024-07-31 10:09:51.365 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:09:51.669 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-07-31 10:09:52.100 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:10:11.644 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:10:11.931 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-07-31 10:10:11.943 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:10:11.977 +02:00 [DBG] Created DbConnection. (32ms).
+2024-07-31 10:10:11.979 +02:00 [DBG] Migrating using database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:11.986 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:12.394 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:12.907 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:12.932 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:13.434 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:13.449 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:13.962 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:13.985 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:14.491 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:14.511 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:15.021 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:15.037 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:15.549 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:15.565 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:16.080 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:16.096 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:16.610 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:16.630 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:17.138 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:17.157 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:17.667 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:17.685 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:18.198 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:18.218 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:18.727 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:18.751 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:19.255 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:19.274 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:19.785 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:19.805 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:20.316 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:20.336 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:20.846 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:20.857 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:21.368 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:21.385 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:21.901 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:21.946 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:22.462 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:22.478 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:22.991 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:23.005 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:23.519 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:23.538 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:24.050 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:24.069 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:24.581 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:24.605 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:25.108 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:25.123 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:25.637 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:25.653 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:26.163 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:26.179 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:26.690 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:26.709 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:27.219 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:27.241 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:27.748 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:27.766 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:28.278 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:28.297 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:28.805 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:28.825 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:29.334 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:29.348 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:29.864 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:29.880 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:30.392 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:30.411 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:30.921 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:30.939 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:31.451 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:31.481 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:31.997 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:32.015 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:32.522 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:32.538 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:33.052 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:33.071 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:33.582 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:33.603 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:34.113 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:34.132 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:34.642 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:34.657 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:35.158 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:35.174 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:35.687 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:35.703 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:36.206 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:36.224 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:36.736 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:36.758 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:37.265 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:37.282 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:37.794 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:37.812 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:38.321 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:38.338 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:38.850 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:38.870 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:39.379 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:39.396 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:39.908 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:39.925 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:40.438 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:40.450 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:40.958 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:40.971 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:41.474 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:41.494 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:42.005 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:42.028 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:42.532 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:42.550 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:43.053 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:43.065 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:43.570 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:43.583 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:44.087 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:44.101 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:44.605 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:44.620 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:45.122 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:45.135 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:45.640 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:45.660 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:46.172 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:46.189 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:46.704 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:46.719 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:47.234 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:47.253 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:47.762 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:47.781 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:48.291 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:10:48.309 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:11:38.638 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:11:38.639 +02:00 [DBG] Disposing connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:11:38.641 +02:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-07-31 10:31:28.252 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:31:28.571 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-07-31 10:31:28.885 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:31:38.633 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:31:38.906 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-07-31 10:31:38.917 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:31:38.967 +02:00 [DBG] Created DbConnection. (47ms).
+2024-07-31 10:31:38.969 +02:00 [DBG] Migrating using database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:38.976 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:39.180 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:39.695 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:39.715 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:40.230 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:40.253 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:40.766 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:40.788 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:41.301 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:41.319 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:41.834 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:41.852 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:42.369 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:42.383 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:42.888 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:42.905 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:43.407 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:43.424 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:43.925 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:43.937 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:44.445 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:44.463 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:44.965 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:44.982 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:45.484 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:45.498 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:46.003 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:46.015 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:46.521 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:46.536 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:47.040 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:47.053 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:47.558 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:47.571 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:48.077 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:48.092 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:48.596 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:48.612 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:49.114 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:49.128 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:49.633 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:49.650 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:50.153 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:50.168 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:50.673 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:50.687 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:51.192 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:51.203 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:51.712 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:51.725 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:52.230 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:52.242 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:52.750 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:52.761 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:53.269 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:53.283 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:53.786 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:53.798 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:54.305 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:54.317 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:54.824 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:54.844 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:55.358 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:55.369 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:55.878 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:55.894 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:56.397 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:56.412 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:56.916 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:56.927 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:57.435 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:57.451 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:57.954 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:57.964 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:58.472 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:58.492 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:59.006 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:59.023 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:59.525 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:31:59.547 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:00.060 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:00.090 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:00.596 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:00.610 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:01.115 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:01.125 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:01.634 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:01.652 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:02.153 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:02.170 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:02.675 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:02.692 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:03.193 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:03.207 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:03.711 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:03.728 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:04.229 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:04.244 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:04.748 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:04.763 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:05.267 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:05.284 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:05.786 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:05.799 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:06.304 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:06.315 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:06.822 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:06.835 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:07.341 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:07.360 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:07.875 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:07.888 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:08.393 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:08.405 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:08.910 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:08.922 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:09.429 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:09.441 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:09.948 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:09.959 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:10.467 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:10.482 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:10.985 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:10.998 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:11.504 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:11.518 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:12.023 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:12.035 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:12.542 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:12.565 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:13.076 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:13.089 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:13.592 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:13.605 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:14.110 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:14.122 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:14.628 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:14.639 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:15.146 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:15.178 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:15.682 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:15.694 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:16.202 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:16.213 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:16.723 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:16.733 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:17.241 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:17.252 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:17.760 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:17.773 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:18.279 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:18.291 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:18.797 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:18.814 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:19.315 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:19.328 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:19.833 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:19.844 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:20.353 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:20.364 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:20.870 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:20.882 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:21.389 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:21.402 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:21.908 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:21.919 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:22.428 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:22.439 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:22.947 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:22.959 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:23.464 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:23.475 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:23.980 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:23.993 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:24.499 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:24.510 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:25.019 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:25.030 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:25.538 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:25.551 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:26.056 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:26.067 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:26.575 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:26.587 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:27.095 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:27.109 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:27.615 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:27.632 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:28.134 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:28.146 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:28.653 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:28.664 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:29.169 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:29.180 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:29.687 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:29.699 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:30.206 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:30.219 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:30.725 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:30.737 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:31.245 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:31.258 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:31.763 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:31.774 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:32.281 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:32.294 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:32.800 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:32.812 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:33.320 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:33.331 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:33.839 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:33.850 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:34.355 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:34.366 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:34.874 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:34.887 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:35.392 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:35.405 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:35.911 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:35.923 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:36.430 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:36.442 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:36.947 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:36.960 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:37.466 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:37.479 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:37.985 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:37.996 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:38.503 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:38.515 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:39.022 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:39.033 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:39.037 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:32:39.038 +02:00 [DBG] Disposing connection to database 'CityInfo' on server 'LocalHost'.
+2024-07-31 10:32:39.040 +02:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-07-31 10:35:36.279 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:35:36.562 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-07-31 10:35:36.573 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:35:36.590 +02:00 [DBG] Created DbConnection. (16ms).
+2024-07-31 10:35:36.592 +02:00 [DBG] Migrating using database 'CityInfo' on server 'localhost'.
+2024-07-31 10:35:36.595 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:35:36.692 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:35:36.696 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:35:36.698 +02:00 [DBG] Disposing connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:35:36.700 +02:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-07-31 10:36:37.927 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:36:38.217 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-07-31 10:36:38.227 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:36:38.246 +02:00 [DBG] Created DbConnection. (17ms).
+2024-07-31 10:36:38.248 +02:00 [DBG] Migrating using database 'CityInfo' on server 'localhost'.
+2024-07-31 10:36:38.251 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:36:38.336 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:36:38.339 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:36:38.341 +02:00 [DBG] Disposing connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:36:38.343 +02:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-07-31 10:37:27.511 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:37:27.794 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-07-31 10:37:27.804 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:37:27.825 +02:00 [DBG] Created DbConnection. (18ms).
+2024-07-31 10:37:27.827 +02:00 [DBG] Migrating using database 'CityInfo' on server 'localhost'.
+2024-07-31 10:37:27.830 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:37:27.938 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:37:27.941 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:37:27.943 +02:00 [DBG] Disposing connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:37:27.945 +02:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-07-31 10:43:48.210 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:43:48.554 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 10:43:48.866 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:44:30.315 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:44:30.623 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 10:44:30.633 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:44:30.643 +02:00 [DBG] Created DbConnection. (7ms).
+2024-07-31 10:44:30.645 +02:00 [DBG] Migrating using database 'main' on server 'default.db'.
+2024-07-31 10:44:30.647 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:44:30.649 +02:00 [DBG] Created DbConnection. (2ms).
+2024-07-31 10:44:30.650 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.656 +02:00 [DBG] An error occurred using the connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.657 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.660 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:44:30.660 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:44:30.660 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 10:44:30.660 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.660 +02:00 [DBG] An error occurred using the connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.660 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.660 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:44:30.660 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.664 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.671 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:44:30.674 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (2ms).
+2024-07-31 10:44:30.675 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (4ms).
+2024-07-31 10:44:30.678 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA journal_mode = 'wal';
+2024-07-31 10:44:30.696 +02:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA journal_mode = 'wal';
+2024-07-31 10:44:30.697 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.698 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (1ms).
+2024-07-31 10:44:30.736 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:44:30.737 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:30.737 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:30.737 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.737 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.737 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2024-07-31 10:44:30.743 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2024-07-31 10:44:30.744 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.744 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:44:30.744 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:44:30.744 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 10:44:30.744 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.744 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.745 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.745 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:44:30.746 +02:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-07-31 10:44:30.746 +02:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 10:44:30.746 +02:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 10:44:30.746 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.746 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.747 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 10:44:30.749 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 10:44:30.749 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.749 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:44:30.750 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.750 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.750 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-07-31 10:44:30.750 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 10:44:30.750 +02:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 10:44:30.750 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 10:44:30.750 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 10:44:30.751 +02:00 [DBG] Closing data reader to 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.752 +02:00 [DBG] A data reader for 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db' is being disposed after spending 0ms reading results.
+2024-07-31 10:44:30.752 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.752 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:44:30.757 +02:00 [INF] Applying migration '20240731084348_CityInfo'.
+2024-07-31 10:44:30.769 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:30.769 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:30.771 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-07-31 10:44:30.772 +02:00 [DBG] Began transaction with isolation level 'Serializable'.
+2024-07-31 10:44:30.773 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:44:30.773 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:30.773 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:30.773 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Cities" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Cities" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Description" TEXT NULL
+);
+2024-07-31 10:44:30.773 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Cities" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Cities" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Description" TEXT NULL
+);
+2024-07-31 10:44:30.773 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:44:30.773 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:30.773 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:30.773 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "PointOfInterests" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_PointOfInterests" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "CityId" INTEGER NOT NULL,
+    CONSTRAINT "FK_PointOfInterests_Cities_CityId" FOREIGN KEY ("CityId") REFERENCES "Cities" ("Id") ON DELETE CASCADE
+);
+2024-07-31 10:44:30.773 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "PointOfInterests" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_PointOfInterests" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "CityId" INTEGER NOT NULL,
+    CONSTRAINT "FK_PointOfInterests_Cities_CityId" FOREIGN KEY ("CityId") REFERENCES "Cities" ("Id") ON DELETE CASCADE
+);
+2024-07-31 10:44:30.773 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:44:30.773 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:30.773 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:30.773 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_PointOfInterests_CityId" ON "PointOfInterests" ("CityId");
+2024-07-31 10:44:30.773 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_PointOfInterests_CityId" ON "PointOfInterests" ("CityId");
+2024-07-31 10:44:33.023 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:44:33.023 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:33.023 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:44:33.023 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731084348_CityInfo', '8.0.0');
+2024-07-31 10:44:33.023 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731084348_CityInfo', '8.0.0');
+2024-07-31 10:44:33.024 +02:00 [DBG] Committing transaction.
+2024-07-31 10:44:33.027 +02:00 [DBG] Committed transaction.
+2024-07-31 10:44:33.028 +02:00 [DBG] Disposing transaction.
+2024-07-31 10:44:33.028 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:44:33.028 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:44:33.029 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:44:33.029 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:44:33.030 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:47:45.778 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:47:46.082 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-07-31 10:47:46.354 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:47:51.581 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:47:51.864 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-07-31 10:47:51.873 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:47:51.914 +02:00 [DBG] Created DbConnection. (39ms).
+2024-07-31 10:47:51.916 +02:00 [DBG] Migrating using database 'CityInfo' on server 'localhost'.
+2024-07-31 10:47:51.919 +02:00 [DBG] Opening connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:47:52.096 +02:00 [DBG] An error occurred using the connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:47:52.099 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:47:52.101 +02:00 [DBG] Disposing connection to database 'CityInfo' on server 'localhost'.
+2024-07-31 10:47:52.103 +02:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-07-31 10:48:39.582 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:48:39.862 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 10:48:40.116 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:48:46.429 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:48:46.699 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 10:48:46.713 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:48:46.718 +02:00 [DBG] Created DbConnection. (4ms).
+2024-07-31 10:48:46.721 +02:00 [DBG] Migrating using database 'main' on server 'default.db'.
+2024-07-31 10:48:46.723 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:48:46.724 +02:00 [DBG] Created DbConnection. (1ms).
+2024-07-31 10:48:46.725 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.729 +02:00 [DBG] An error occurred using the connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.730 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.733 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:48:46.733 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:48:46.733 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 10:48:46.733 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.734 +02:00 [DBG] An error occurred using the connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.734 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.734 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:48:46.734 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.739 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.742 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:48:46.745 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (2ms).
+2024-07-31 10:48:46.746 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (4ms).
+2024-07-31 10:48:46.749 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA journal_mode = 'wal';
+2024-07-31 10:48:46.767 +02:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA journal_mode = 'wal';
+2024-07-31 10:48:46.768 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.769 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (1ms).
+2024-07-31 10:48:46.806 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:48:46.806 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:46.806 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:46.806 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.806 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.806 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2024-07-31 10:48:46.814 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2024-07-31 10:48:46.814 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.814 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:48:46.815 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:48:46.815 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 10:48:46.815 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.815 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.816 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.816 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:48:46.817 +02:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-07-31 10:48:46.817 +02:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 10:48:46.817 +02:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 10:48:46.817 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.817 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.818 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 10:48:46.819 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 10:48:46.819 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.819 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:48:46.965 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.966 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.966 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-07-31 10:48:46.966 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 10:48:46.966 +02:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 10:48:46.966 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 10:48:46.966 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 10:48:46.967 +02:00 [DBG] Closing data reader to 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.968 +02:00 [DBG] A data reader for 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db' is being disposed after spending 0ms reading results.
+2024-07-31 10:48:46.968 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.968 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:48:46.973 +02:00 [INF] Applying migration '20240731084840_CityInfo'.
+2024-07-31 10:48:46.985 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:46.985 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:46.986 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-07-31 10:48:46.987 +02:00 [DBG] Began transaction with isolation level 'Serializable'.
+2024-07-31 10:48:46.988 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:48:46.988 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:46.988 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:46.988 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Cities" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Cities" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Description" TEXT NULL
+);
+2024-07-31 10:48:46.988 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Cities" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Cities" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "Description" TEXT NULL
+);
+2024-07-31 10:48:46.989 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:48:46.989 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:46.989 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:46.989 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "PointOfInterests" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_PointOfInterests" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "CityId" INTEGER NOT NULL,
+    CONSTRAINT "FK_PointOfInterests_Cities_CityId" FOREIGN KEY ("CityId") REFERENCES "Cities" ("Id") ON DELETE CASCADE
+);
+2024-07-31 10:48:46.989 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "PointOfInterests" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_PointOfInterests" PRIMARY KEY AUTOINCREMENT,
+    "Name" TEXT NOT NULL,
+    "CityId" INTEGER NOT NULL,
+    CONSTRAINT "FK_PointOfInterests_Cities_CityId" FOREIGN KEY ("CityId") REFERENCES "Cities" ("Id") ON DELETE CASCADE
+);
+2024-07-31 10:48:46.989 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:48:46.989 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:46.989 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:46.989 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_PointOfInterests_CityId" ON "PointOfInterests" ("CityId");
+2024-07-31 10:48:46.989 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_PointOfInterests_CityId" ON "PointOfInterests" ("CityId");
+2024-07-31 10:48:46.989 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:48:46.989 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:46.989 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:48:48.986 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731084840_CityInfo', '8.0.0');
+2024-07-31 10:48:48.986 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731084840_CityInfo', '8.0.0');
+2024-07-31 10:48:48.988 +02:00 [DBG] Committing transaction.
+2024-07-31 10:48:48.991 +02:00 [DBG] Committed transaction.
+2024-07-31 10:48:48.992 +02:00 [DBG] Disposing transaction.
+2024-07-31 10:48:48.992 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:48:48.993 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:48:48.994 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:48:48.995 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:48:48.995 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:51:50.814 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:51:51.092 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 10:51:51.348 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:52:29.851 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 10:52:30.125 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 10:52:30.134 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:52:30.138 +02:00 [DBG] Created DbConnection. (3ms).
+2024-07-31 10:52:30.140 +02:00 [DBG] Migrating using database 'main' on server 'default.db'.
+2024-07-31 10:52:30.141 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:52:30.142 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 10:52:30.143 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:52:30.147 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.150 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:52:30.152 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:52:30.155 +02:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-07-31 10:52:30.157 +02:00 [DBG] Created DbCommand for 'ExecuteScalar' (1ms).
+2024-07-31 10:52:30.158 +02:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (3ms).
+2024-07-31 10:52:30.158 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:52:30.159 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.162 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 10:52:30.171 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 10:52:30.172 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.173 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:52:30.173 +02:00 [DBG] Creating DbConnection.
+2024-07-31 10:52:30.173 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 10:52:30.173 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:52:30.173 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.173 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:52:30.173 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:52:30.174 +02:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-07-31 10:52:30.174 +02:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 10:52:30.174 +02:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 10:52:30.174 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:52:30.174 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.174 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 10:52:30.174 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 10:52:30.174 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.174 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:52:30.182 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:52:30.183 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.183 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-07-31 10:52:30.183 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 10:52:30.183 +02:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 10:52:30.183 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 10:52:30.183 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 10:52:30.185 +02:00 [DBG] Closing data reader to 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.185 +02:00 [DBG] A data reader for 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db' is being disposed after spending 1ms reading results.
+2024-07-31 10:52:30.185 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.185 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:52:30.190 +02:00 [INF] Applying migration '20240731085151_CityInfoDBAddPOIDescription'.
+2024-07-31 10:52:30.203 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 10:52:30.203 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.204 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-07-31 10:52:30.416 +02:00 [DBG] Began transaction with isolation level 'Serializable'.
+2024-07-31 10:52:30.416 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:52:30.416 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:52:30.416 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:52:30.417 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "PointOfInterests" ADD "Description" TEXT NULL;
+2024-07-31 10:52:30.417 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "PointOfInterests" ADD "Description" TEXT NULL;
+2024-07-31 10:52:30.417 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 10:52:30.417 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:52:30.417 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 10:52:30.417 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731085151_CityInfoDBAddPOIDescription', '8.0.0');
+2024-07-31 10:52:30.417 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731085151_CityInfoDBAddPOIDescription', '8.0.0');
+2024-07-31 10:52:30.418 +02:00 [DBG] Committing transaction.
+2024-07-31 10:52:30.423 +02:00 [DBG] Committed transaction.
+2024-07-31 10:52:30.424 +02:00 [DBG] Disposing transaction.
+2024-07-31 10:52:30.424 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 10:52:30.424 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 10:52:30.425 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 10:52:30.425 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 10:52:30.425 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:10:32.170 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 11:10:32.508 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 11:10:32.785 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 11:10:39.115 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 11:10:39.428 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 11:10:39.438 +02:00 [DBG] Creating DbConnection.
+2024-07-31 11:10:39.443 +02:00 [DBG] Created DbConnection. (3ms).
+2024-07-31 11:10:39.444 +02:00 [DBG] Migrating using database 'main' on server 'default.db'.
+2024-07-31 11:10:39.446 +02:00 [DBG] Creating DbConnection.
+2024-07-31 11:10:39.447 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 11:10:39.447 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:10:39.452 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.453 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 11:10:39.455 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:10:39.458 +02:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-07-31 11:10:39.461 +02:00 [DBG] Created DbCommand for 'ExecuteScalar' (2ms).
+2024-07-31 11:10:39.461 +02:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (4ms).
+2024-07-31 11:10:39.461 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:10:39.463 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.466 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 11:10:39.475 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 11:10:39.476 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.477 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:10:39.477 +02:00 [DBG] Creating DbConnection.
+2024-07-31 11:10:39.477 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 11:10:39.477 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:10:39.478 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.478 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 11:10:39.478 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:10:39.478 +02:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-07-31 11:10:39.478 +02:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 11:10:39.478 +02:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 11:10:39.478 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:10:39.478 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.478 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 11:10:39.478 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 11:10:39.478 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.478 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:10:39.485 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:10:39.485 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.485 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-07-31 11:10:39.485 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 11:10:39.485 +02:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 11:10:39.485 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 11:10:39.485 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 11:10:39.487 +02:00 [DBG] Closing data reader to 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.487 +02:00 [DBG] A data reader for 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db' is being disposed after spending 1ms reading results.
+2024-07-31 11:10:39.487 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.505 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (18ms).
+2024-07-31 11:10:39.510 +02:00 [INF] Applying migration '20240731091032_InitialDataSeed'.
+2024-07-31 11:10:39.525 +02:00 [WRN] An operation of type 'InsertDataOperation' will be attempted while a rebuild of table 'PointsOfInterest' is pending. The database may not be in an expected state. Review the SQL generated by this migration to help diagnose any failures. Consider moving these operations to a subsequent migration.
+2024-07-31 11:10:39.537 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:10:39.537 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:39.538 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-07-31 11:10:39.540 +02:00 [DBG] Began transaction with isolation level 'Serializable'.
+2024-07-31 11:10:39.541 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:39.541 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.541 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.541 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "PointOfInterests" RENAME TO "PointsOfInterest";
+2024-07-31 11:10:39.541 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "PointOfInterests" RENAME TO "PointsOfInterest";
+2024-07-31 11:10:39.542 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:39.542 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.542 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.542 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP INDEX "IX_PointOfInterests_CityId";
+2024-07-31 11:10:39.542 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP INDEX "IX_PointOfInterests_CityId";
+2024-07-31 11:10:39.542 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:39.542 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.542 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.542 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_PointsOfInterest_CityId" ON "PointsOfInterest" ("CityId");
+2024-07-31 11:10:39.542 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_PointsOfInterest_CityId" ON "PointsOfInterest" ("CityId");
+2024-07-31 11:10:39.542 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:39.542 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.542 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.542 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Cities" ("Id", "Description", "Name")
+VALUES (1, 'The one with that big park.', 'New York City');
+SELECT changes();
+
+INSERT INTO "Cities" ("Id", "Description", "Name")
+VALUES (2, 'The one with the cathedral that was never really finished.', 'Antwerp');
+SELECT changes();
+
+INSERT INTO "Cities" ("Id", "Description", "Name")
+VALUES (3, 'The one with that big tower.', 'Paris');
+SELECT changes();
+2024-07-31 11:10:39.542 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "Cities" ("Id", "Description", "Name")
+VALUES (1, 'The one with that big park.', 'New York City');
+SELECT changes();
+
+INSERT INTO "Cities" ("Id", "Description", "Name")
+VALUES (2, 'The one with the cathedral that was never really finished.', 'Antwerp');
+SELECT changes();
+
+INSERT INTO "Cities" ("Id", "Description", "Name")
+VALUES (3, 'The one with that big tower.', 'Paris');
+SELECT changes();
+2024-07-31 11:10:39.542 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:39.542 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.542 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:39.542 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (1, 1, 'The most visited urban park in the United States.', 'Central Park');
+SELECT changes();
+
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (2, 1, 'A 102-story skyscraper located in Midtown Manhattan.', 'Empire State Building');
+SELECT changes();
+
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (3, 2, 'A Gothic style cathedral.', 'Cathedral');
+SELECT changes();
+
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (4, 2, 'The finest example of railway architecture in Belgium.', 'Antwerp Central Station');
+SELECT changes();
+2024-07-31 11:10:41.098 +02:00 [INF] Executed DbCommand (1,556ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (1, 1, 'The most visited urban park in the United States.', 'Central Park');
+SELECT changes();
+
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (2, 1, 'A 102-story skyscraper located in Midtown Manhattan.', 'Empire State Building');
+SELECT changes();
+
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (3, 2, 'A Gothic style cathedral.', 'Cathedral');
+SELECT changes();
+
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (4, 2, 'The finest example of railway architecture in Belgium.', 'Antwerp Central Station');
+SELECT changes();
+2024-07-31 11:10:41.098 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:41.098 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:41.098 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:41.098 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "ef_temp_PointsOfInterest" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_PointsOfInterest" PRIMARY KEY AUTOINCREMENT,
+    "CityId" INTEGER NOT NULL,
+    "Description" TEXT NULL,
+    "Name" TEXT NOT NULL,
+    CONSTRAINT "FK_PointsOfInterest_Cities_CityId" FOREIGN KEY ("CityId") REFERENCES "Cities" ("Id") ON DELETE CASCADE
+);
+2024-07-31 11:10:41.099 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "ef_temp_PointsOfInterest" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_PointsOfInterest" PRIMARY KEY AUTOINCREMENT,
+    "CityId" INTEGER NOT NULL,
+    "Description" TEXT NULL,
+    "Name" TEXT NOT NULL,
+    CONSTRAINT "FK_PointsOfInterest_Cities_CityId" FOREIGN KEY ("CityId") REFERENCES "Cities" ("Id") ON DELETE CASCADE
+);
+2024-07-31 11:10:41.099 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:41.099 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:41.099 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:41.099 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "ef_temp_PointsOfInterest" ("Id", "CityId", "Description", "Name")
+SELECT "Id", "CityId", "Description", "Name"
+FROM "PointsOfInterest";
+2024-07-31 11:10:41.099 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "ef_temp_PointsOfInterest" ("Id", "CityId", "Description", "Name")
+SELECT "Id", "CityId", "Description", "Name"
+FROM "PointsOfInterest";
+2024-07-31 11:10:41.100 +02:00 [DBG] Committing transaction.
+2024-07-31 11:10:41.104 +02:00 [DBG] Committed transaction.
+2024-07-31 11:10:41.104 +02:00 [DBG] Disposing transaction.
+2024-07-31 11:10:41.104 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:41.105 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:41.105 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:41.105 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA foreign_keys = 0;
+2024-07-31 11:10:41.105 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA foreign_keys = 0;
+2024-07-31 11:10:41.105 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-07-31 11:10:41.105 +02:00 [DBG] Began transaction with isolation level 'Serializable'.
+2024-07-31 11:10:41.105 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:41.105 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:41.105 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:41.105 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP TABLE "PointsOfInterest";
+2024-07-31 11:10:41.105 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DROP TABLE "PointsOfInterest";
+2024-07-31 11:10:43.212 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:43.212 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:43.212 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:43.212 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "ef_temp_PointsOfInterest" RENAME TO "PointsOfInterest";
+2024-07-31 11:10:43.213 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "ef_temp_PointsOfInterest" RENAME TO "PointsOfInterest";
+2024-07-31 11:10:43.213 +02:00 [DBG] Committing transaction.
+2024-07-31 11:10:43.216 +02:00 [DBG] Committed transaction.
+2024-07-31 11:10:43.216 +02:00 [DBG] Disposing transaction.
+2024-07-31 11:10:43.217 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:43.217 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:43.217 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:43.217 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA foreign_keys = 1;
+2024-07-31 11:10:43.217 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA foreign_keys = 1;
+2024-07-31 11:10:43.217 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-07-31 11:10:43.217 +02:00 [DBG] Began transaction with isolation level 'Serializable'.
+2024-07-31 11:10:43.217 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:43.217 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:43.217 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:43.217 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_PointsOfInterest_CityId" ON "PointsOfInterest" ("CityId");
+2024-07-31 11:10:43.217 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX "IX_PointsOfInterest_CityId" ON "PointsOfInterest" ("CityId");
+2024-07-31 11:10:43.217 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:10:43.217 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:43.218 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:10:43.218 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731091032_InitialDataSeed', '8.0.0');
+2024-07-31 11:10:43.218 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731091032_InitialDataSeed', '8.0.0');
+2024-07-31 11:10:43.218 +02:00 [DBG] Committing transaction.
+2024-07-31 11:10:43.220 +02:00 [DBG] Committed transaction.
+2024-07-31 11:10:43.220 +02:00 [DBG] Disposing transaction.
+2024-07-31 11:10:43.220 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:10:43.220 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:10:43.222 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 11:10:43.223 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 11:10:43.223 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:13:34.327 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 11:13:34.641 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 11:13:34.932 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 11:13:38.713 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-07-31 11:13:39.052 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite:8.0.0' with options: None
+2024-07-31 11:13:39.061 +02:00 [DBG] Creating DbConnection.
+2024-07-31 11:13:39.068 +02:00 [DBG] Created DbConnection. (4ms).
+2024-07-31 11:13:39.070 +02:00 [DBG] Migrating using database 'main' on server 'default.db'.
+2024-07-31 11:13:39.072 +02:00 [DBG] Creating DbConnection.
+2024-07-31 11:13:39.073 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 11:13:39.073 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:13:39.078 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.080 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 11:13:39.082 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:13:39.085 +02:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-07-31 11:13:39.088 +02:00 [DBG] Created DbCommand for 'ExecuteScalar' (2ms).
+2024-07-31 11:13:39.088 +02:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (4ms).
+2024-07-31 11:13:39.089 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:13:39.090 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.092 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 11:13:39.102 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 11:13:39.103 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.104 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (1ms).
+2024-07-31 11:13:39.104 +02:00 [DBG] Creating DbConnection.
+2024-07-31 11:13:39.104 +02:00 [DBG] Created DbConnection. (0ms).
+2024-07-31 11:13:39.104 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:13:39.104 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.105 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 11:13:39.105 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:13:39.105 +02:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-07-31 11:13:39.105 +02:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 11:13:39.105 +02:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2024-07-31 11:13:39.105 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:13:39.105 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.105 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 11:13:39.105 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2024-07-31 11:13:39.105 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.105 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:13:39.113 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:13:39.113 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.113 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-07-31 11:13:39.113 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 11:13:39.113 +02:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-07-31 11:13:39.113 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 11:13:39.113 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2024-07-31 11:13:39.115 +02:00 [DBG] Closing data reader to 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.115 +02:00 [DBG] A data reader for 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db' is being disposed after spending 1ms reading results.
+2024-07-31 11:13:39.116 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.116 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:13:39.121 +02:00 [INF] Applying migration '20240731091334_InitialDataSeed'.
+2024-07-31 11:13:39.140 +02:00 [DBG] Opening connection to database 'main' on server 'default.db'.
+2024-07-31 11:13:39.140 +02:00 [DBG] Opened connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.141 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-07-31 11:13:39.187 +02:00 [DBG] Began transaction with isolation level 'Serializable'.
+2024-07-31 11:13:39.188 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:13:39.188 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:13:39.189 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:13:39.189 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (5, 3, 'A wrought iron lattice tower on the Champ de Mars, named after engineer Gustave Eiffel.', 'Eiffel Tower');
+SELECT changes();
+
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (6, 3, 'The world''s largest museum.', 'The Louvre');
+SELECT changes();
+2024-07-31 11:13:39.189 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (5, 3, 'A wrought iron lattice tower on the Champ de Mars, named after engineer Gustave Eiffel.', 'Eiffel Tower');
+SELECT changes();
+
+INSERT INTO "PointsOfInterest" ("Id", "CityId", "Description", "Name")
+VALUES (6, 3, 'The world''s largest museum.', 'The Louvre');
+SELECT changes();
+2024-07-31 11:13:39.190 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-07-31 11:13:39.190 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:13:39.190 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-07-31 11:13:39.190 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731091334_InitialDataSeed', '8.0.0');
+2024-07-31 11:13:39.190 +02:00 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20240731091334_InitialDataSeed', '8.0.0');
+2024-07-31 11:13:39.191 +02:00 [DBG] Committing transaction.
+2024-07-31 11:13:39.194 +02:00 [DBG] Committed transaction.
+2024-07-31 11:13:39.195 +02:00 [DBG] Disposing transaction.
+2024-07-31 11:13:39.195 +02:00 [DBG] Closing connection to database 'main' on server 'C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\default.db'.
+2024-07-31 11:13:39.195 +02:00 [DBG] Closed connection to database 'main' on server 'default.db' (0ms).
+2024-07-31 11:13:39.196 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-07-31 11:13:39.196 +02:00 [DBG] Disposing connection to database 'main' on server 'default.db'.
+2024-07-31 11:13:39.196 +02:00 [DBG] Disposed connection to database 'main' on server 'default.db' (0ms).

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Migrations\\20240731084348_CityInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240731084348_CityInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730105501_CityInfoDBInitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -57,15 +61,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 327,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "20240731084348_CityInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Migrations\\20240731084348_CityInfo.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240731084348_CityInfo.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Migrations\\20240731084348_CityInfo.cs*",
+              "RelativeToolTip": "Migrations\\20240731084348_CityInfo.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:43:48.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "20240730104918_CityInfoDB.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104918_CityInfoDB.cs",
               "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730104918_CityInfoDB.cs",
@@ -77,20 +94,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACEAAAA9AAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T09:33:08.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "20240730104523_CityInfoDBInitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730104523_CityInfoDBInitialMigration.cs",
               "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730104523_CityInfoDBInitialMigration.cs",
@@ -102,19 +119,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-30T10:05:24.798Z"
+              "WhenOpened": "2024-07-30T10:05:24.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -126,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CitiesController.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\CitiesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
@@ -138,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20240730100033_CityInfoDBInitialMigration2.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730100033_CityInfoDBInitialMigration2.cs",
               "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730100033_CityInfoDBInitialMigration2.cs",
@@ -150,20 +168,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CityInfoContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\DbContexts\\CityInfoContext.cs",
               "RelativeDocumentMoniker": "DbContexts\\CityInfoContext.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\DbContexts\\CityInfoContext.cs",
               "RelativeToolTip": "DbContexts\\CityInfoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T09:29:08.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-30T09:29:08.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20240730105501_CityInfoDBInitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730105501_CityInfoDBInitialMigration.cs",
               "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730105501_CityInfoDBInitialMigration.cs",
@@ -175,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PointOfInterest.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Entities\\PointOfInterest.cs",
               "RelativeDocumentMoniker": "Entities\\PointOfInterest.cs",
@@ -187,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "20240730103655_CityInfoDB.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Development\\Migrations\\20240730103655_CityInfoDB.cs",
               "RelativeDocumentMoniker": "..\\..\\Development\\Migrations\\20240730103655_CityInfoDB.cs",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Entities\\City.cs",
               "RelativeDocumentMoniker": "Entities\\City.cs",
@@ -211,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -227,10 +244,6 @@
           "DockedWidth": 73,
           "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

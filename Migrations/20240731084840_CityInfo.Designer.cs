@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CityInfo.API.Migrations
 {
     [DbContext(typeof(CityInfoContext))]
-    [Migration("20240730131130_CityInfoDBInitialMigration")]
-    partial class CityInfoDBInitialMigration
+    [Migration("20240731084840_CityInfo")]
+    partial class CityInfo
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
