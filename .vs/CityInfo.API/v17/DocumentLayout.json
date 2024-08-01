@@ -38,47 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 327,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICityInfoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\ICityInfoRepository.cs",
-              "RelativeDocumentMoniker": "Services\\ICityInfoRepository.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\ICityInfoRepository.cs*",
-              "RelativeToolTip": "Services\\ICityInfoRepository.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:33:43.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CityInfoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\CityInfoRepository.cs",
-              "RelativeDocumentMoniker": "Services\\CityInfoRepository.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\CityInfoRepository.cs*",
-              "RelativeToolTip": "Services\\CityInfoRepository.cs*",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:30:09.481Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PointsOfInterestController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\PointsOfInterestController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PointsOfInterestController.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\PointsOfInterestController.cs*",
-              "RelativeToolTip": "Controllers\\PointsOfInterestController.cs*",
-              "ViewState": "AQIAAJUAAAAAAAAAAAAcwL0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:23:33.008Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -102,6 +63,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICityInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\ICityInfoRepository.cs",
+              "RelativeDocumentMoniker": "Services\\ICityInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\ICityInfoRepository.cs",
+              "RelativeToolTip": "Services\\ICityInfoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:33:43.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\CityInfoRepository.cs",
+              "RelativeDocumentMoniker": "Services\\CityInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\CityInfoRepository.cs",
+              "RelativeToolTip": "Services\\CityInfoRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:30:09.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointsOfInterestController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\PointsOfInterestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PointsOfInterestController.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\PointsOfInterestController.cs",
+              "RelativeToolTip": "Controllers\\PointsOfInterestController.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAcwLwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:23:33.008Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
