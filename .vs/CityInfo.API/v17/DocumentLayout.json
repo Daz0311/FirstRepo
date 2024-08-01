@@ -3,39 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:dbcontexts\\cityinfocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:controllers\\pointsofinterestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\entities\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:entities\\pointofinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\services\\cityinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:services\\cityinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\migrations\\cityinfocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:migrations\\cityinfocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\services\\icityinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:services\\icityinforepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\profiles\\pointofinterestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:profiles\\pointofinterestprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\profiles\\cityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:profiles\\cityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin.DT-ELE1\\Downloads\\asp-dot-net-core-6-web-api-fundamentals\\06\\demos\\end\\CityInfo.API\\DbContexts\\CityInfoContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|c:\\users\\admin.dt-ele1\\documents\\develop\\firstrepo\\cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{25D8067C-618B-4753-9800-E92D3697942A}|CityInfo.API.csproj|solutionrelative:cityinfo.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,19 +38,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 327,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PointOfInterest.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Entities\\PointOfInterest.cs",
-              "RelativeDocumentMoniker": "Entities\\PointOfInterest.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Entities\\PointOfInterest.cs",
-              "RelativeToolTip": "Entities\\PointOfInterest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "DocumentIndex": 2,
+              "Title": "ICityInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\ICityInfoRepository.cs",
+              "RelativeDocumentMoniker": "Services\\ICityInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\ICityInfoRepository.cs*",
+              "RelativeToolTip": "Services\\ICityInfoRepository.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:30:51.258Z",
+              "WhenOpened": "2024-08-01T10:33:43.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityInfoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\CityInfoRepository.cs",
+              "RelativeDocumentMoniker": "Services\\CityInfoRepository.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Services\\CityInfoRepository.cs*",
+              "RelativeToolTip": "Services\\CityInfoRepository.cs*",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:30:09.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointsOfInterestController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\PointsOfInterestController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PointsOfInterestController.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\PointsOfInterestController.cs*",
+              "RelativeToolTip": "Controllers\\PointsOfInterestController.cs*",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAcwL0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:23:33.008Z",
               "EditorCaption": ""
             },
             {
@@ -81,68 +100,46 @@
               "Name": "ST:577998302:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CityInfoContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Migrations\\CityInfoContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\CityInfoContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Migrations\\CityInfoContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\CityInfoContextModelSnapshot.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:17:57.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CityInfoContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\DbContexts\\CityInfoContext.cs",
-              "RelativeDocumentMoniker": "DbContexts\\CityInfoContext.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\DbContexts\\CityInfoContext.cs",
-              "RelativeToolTip": "DbContexts\\CityInfoContext.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAIwBYAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:12:30.38Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T08:27:46.943Z",
+              "Title": "PointOfInterestProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Profiles\\PointOfInterestProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\PointOfInterestProfile.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Profiles\\PointOfInterestProfile.cs",
+              "RelativeToolTip": "Profiles\\PointOfInterestProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:17:13.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-31T09:40:10.106Z",
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Controllers\\CitiesController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowC0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:59:30.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.production.json",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.production.json",
-              "RelativeDocumentMoniker": "appsettings.production.json",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\appsettings.production.json",
-              "RelativeToolTip": "appsettings.production.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-01T08:28:16.613Z",
+              "Title": "CityProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Profiles\\CityProfile.cs",
+              "RelativeDocumentMoniker": "Profiles\\CityProfile.cs",
+              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Profiles\\CityProfile.cs",
+              "RelativeToolTip": "Profiles\\CityProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T09:57:58.814Z",
               "EditorCaption": ""
             },
             {
@@ -153,46 +150,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADkAAACDAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T09:18:26.988Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CityInfoContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Downloads\\asp-dot-net-core-6-web-api-fundamentals\\06\\demos\\end\\CityInfo.API\\DbContexts\\CityInfoContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\asp-dot-net-core-6-web-api-fundamentals\\06\\demos\\end\\CityInfo.API\\DbContexts\\CityInfoContext.cs",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Downloads\\asp-dot-net-core-6-web-api-fundamentals\\06\\demos\\end\\CityInfo.API\\DbContexts\\CityInfoContext.cs",
-              "RelativeToolTip": "..\\..\\..\\Downloads\\asp-dot-net-core-6-web-api-fundamentals\\06\\demos\\end\\CityInfo.API\\DbContexts\\CityInfoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:22:21.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1337924956:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1449176975:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:350743133:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CityInfo.API",
-              "DocumentMoniker": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\CityInfo.API.csproj",
-              "RelativeDocumentMoniker": "CityInfo.API.csproj",
-              "ToolTip": "C:\\Users\\Admin.DT-ELE1\\Documents\\Develop\\FirstRepo\\CityInfo.API.csproj",
-              "RelativeToolTip": "CityInfo.API.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-31T10:28:52.66Z"
             }
           ]
         },

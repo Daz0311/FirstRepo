@@ -52,10 +52,14 @@ builder.Services.AddTransient<IMailService, CloudMailService>();
 builder.Services.AddSingleton<CitiesDataStore>();
 
 builder.Services.AddDbContext<CityInfoContext>(dbContextOptions
-    => dbContextOptions.UseSqlite("Data Source=default.db"));
+    => dbContextOptions.UseSqlite("Data Source=CityInfo.db"));
 
 //builder.Services.AddDbContext<CityInfoContext>(dbContextOptions
 //    => dbContextOptions.UseSqlServer("Server=.;Database=CityInfoDB2;TrustServerCertificate=True;User Id=sa;Password=Pass@word"));
+
+builder.Services.AddScoped<ICityInfoRepository, CityInfoRepository>();
+
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 
