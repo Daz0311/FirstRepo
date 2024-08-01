@@ -1,0 +1,233 @@
+2024-08-01 09:53:51.457 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-08-01 09:53:51.781 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-08-01 09:53:51.797 +02:00 [DBG] Creating DbConnection.
+2024-08-01 09:53:51.835 +02:00 [DBG] Created DbConnection. (36ms).
+2024-08-01 09:53:51.838 +02:00 [DBG] Migrating using database 'provasasa' on server '.'.
+2024-08-01 09:53:51.844 +02:00 [DBG] Opening connection to database 'provasasa' on server '.'.
+2024-08-01 09:53:52.027 +02:00 [DBG] An error occurred using the connection to database 'provasasa' on server '.'.
+2024-08-01 09:53:52.031 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-08-01 09:53:52.034 +02:00 [DBG] Disposing connection to database 'provasasa' on server '.'.
+2024-08-01 09:53:52.037 +02:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-08-01 09:54:13.296 +02:00 [DBG] An 'IServiceProvider' was created for internal use by Entity Framework.
+2024-08-01 09:54:13.610 +02:00 [DBG] Entity Framework Core 8.0.0 initialized 'CityInfoContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:8.0.0' with options: None
+2024-08-01 09:54:13.621 +02:00 [DBG] Creating DbConnection.
+2024-08-01 09:54:13.639 +02:00 [DBG] Created DbConnection. (16ms).
+2024-08-01 09:54:13.641 +02:00 [DBG] Migrating using database 'provasasa' on server '.'.
+2024-08-01 09:54:13.644 +02:00 [DBG] Opening connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:13.754 +02:00 [DBG] An error occurred using the connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:13.754 +02:00 [DBG] Opening connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:13.755 +02:00 [DBG] An error occurred using the connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:13.785 +02:00 [DBG] Creating DbConnection.
+2024-08-01 09:54:13.785 +02:00 [DBG] Created DbConnection. (0ms).
+2024-08-01 09:54:13.785 +02:00 [DBG] Opening connection to database 'master' on server '.'.
+2024-08-01 09:54:13.803 +02:00 [DBG] Opened connection to database 'master' on server '.'.
+2024-08-01 09:54:13.806 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:13.810 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (2ms).
+2024-08-01 09:54:13.811 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (6ms).
+2024-08-01 09:54:13.815 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [provasasa];
+2024-08-01 09:54:14.047 +02:00 [INF] Executed DbCommand (228ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [provasasa];
+2024-08-01 09:54:14.048 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:14.048 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.048 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.048 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [provasasa] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2024-08-01 09:54:14.169 +02:00 [INF] Executed DbCommand (120ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [provasasa] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2024-08-01 09:54:14.170 +02:00 [DBG] Closing connection to database 'master' on server '.'.
+2024-08-01 09:54:14.175 +02:00 [DBG] Closed connection to database 'master' on server '.' (3ms).
+2024-08-01 09:54:14.177 +02:00 [DBG] Disposing connection to database 'master' on server '.'.
+2024-08-01 09:54:14.177 +02:00 [DBG] Disposed connection to database '' on server '' (0ms).
+2024-08-01 09:54:14.177 +02:00 [DBG] Opening connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.188 +02:00 [DBG] Opened connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.188 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:14.188 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.188 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.188 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-08-01 09:54:14.195 +02:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-08-01 09:54:14.196 +02:00 [DBG] Closing connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.196 +02:00 [DBG] Closed connection to database 'provasasa' on server '.' (0ms).
+2024-08-01 09:54:14.233 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:14.233 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.233 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.233 +02:00 [DBG] Opening connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.233 +02:00 [DBG] Opened connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.233 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2024-08-01 09:54:14.243 +02:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2024-08-01 09:54:14.243 +02:00 [DBG] Closing connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.243 +02:00 [DBG] Closed connection to database 'provasasa' on server '.' (0ms).
+2024-08-01 09:54:14.244 +02:00 [DBG] Opening connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.244 +02:00 [DBG] Opened connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.244 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:14.244 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.244 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.244 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-08-01 09:54:14.245 +02:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2024-08-01 09:54:14.245 +02:00 [DBG] Closing connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.245 +02:00 [DBG] Closed connection to database 'provasasa' on server '.' (0ms).
+2024-08-01 09:54:14.247 +02:00 [DBG] Creating DbCommand for 'ExecuteScalar'.
+2024-08-01 09:54:14.247 +02:00 [DBG] Created DbCommand for 'ExecuteScalar' (0ms).
+2024-08-01 09:54:14.247 +02:00 [DBG] Initialized DbCommand for 'ExecuteScalar' (0ms).
+2024-08-01 09:54:14.247 +02:00 [DBG] Opening connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.247 +02:00 [DBG] Opened connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.247 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-08-01 09:54:14.255 +02:00 [INF] Executed DbCommand (8ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2024-08-01 09:54:14.255 +02:00 [DBG] Closing connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.255 +02:00 [DBG] Closed connection to database 'provasasa' on server '.' (0ms).
+2024-08-01 09:54:14.256 +02:00 [DBG] Opening connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.256 +02:00 [DBG] Opened connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.256 +02:00 [DBG] Creating DbCommand for 'ExecuteReader'.
+2024-08-01 09:54:14.256 +02:00 [DBG] Created DbCommand for 'ExecuteReader' (0ms).
+2024-08-01 09:54:14.256 +02:00 [DBG] Initialized DbCommand for 'ExecuteReader' (0ms).
+2024-08-01 09:54:14.256 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-08-01 09:54:14.269 +02:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2024-08-01 09:54:14.270 +02:00 [DBG] Closing data reader to 'provasasa' on server '.'.
+2024-08-01 09:54:14.271 +02:00 [DBG] A data reader for 'provasasa' on server '.' is being disposed after spending 1ms reading results.
+2024-08-01 09:54:14.271 +02:00 [DBG] Closing connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.271 +02:00 [DBG] Closed connection to database 'provasasa' on server '.' (0ms).
+2024-08-01 09:54:14.278 +02:00 [INF] Applying migration '20240731100049_InitialDataSeed'.
+2024-08-01 09:54:14.300 +02:00 [DBG] Executing 3 update commands as a batch.
+2024-08-01 09:54:14.303 +02:00 [DBG] Executing 6 update commands as a batch.
+2024-08-01 09:54:14.305 +02:00 [DBG] Opening connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.305 +02:00 [DBG] Opened connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:14.307 +02:00 [DBG] Beginning transaction with isolation level 'Unspecified'.
+2024-08-01 09:54:14.313 +02:00 [DBG] Began transaction with isolation level 'ReadCommitted'.
+2024-08-01 09:54:14.313 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:14.313 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.314 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:14.314 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] INTEGER NOT NULL,
+    [Name] TEXT NOT NULL,
+    [Description] TEXT NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2024-08-01 09:54:14.316 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Cities] (
+    [Id] INTEGER NOT NULL,
+    [Name] TEXT NOT NULL,
+    [Description] TEXT NULL,
+    CONSTRAINT [PK_Cities] PRIMARY KEY ([Id])
+);
+2024-08-01 09:54:15.814 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:15.814 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:15.814 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:15.814 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [PointsOfInterest] (
+    [Id] INTEGER NOT NULL,
+    [Name] TEXT NOT NULL,
+    [Description] TEXT NULL,
+    [CityId] INTEGER NOT NULL,
+    CONSTRAINT [PK_PointsOfInterest] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_PointsOfInterest_Cities_CityId] FOREIGN KEY ([CityId]) REFERENCES [Cities] ([Id]) ON DELETE CASCADE
+);
+2024-08-01 09:54:15.820 +02:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [PointsOfInterest] (
+    [Id] INTEGER NOT NULL,
+    [Name] TEXT NOT NULL,
+    [Description] TEXT NULL,
+    [CityId] INTEGER NOT NULL,
+    CONSTRAINT [PK_PointsOfInterest] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_PointsOfInterest_Cities_CityId] FOREIGN KEY ([CityId]) REFERENCES [Cities] ([Id]) ON DELETE CASCADE
+);
+2024-08-01 09:54:15.820 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:15.820 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:15.820 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:15.820 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Description', N'Name') AND [object_id] = OBJECT_ID(N'[Cities]'))
+    SET IDENTITY_INSERT [Cities] ON;
+INSERT INTO [Cities] ([Id], [Description], [Name])
+VALUES (1, 'The one with that big park.', 'New York City'),
+(2, 'The one with the cathedral that was never really finished.', 'Antwerp'),
+(3, 'The one with that big tower.', 'Paris');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Description', N'Name') AND [object_id] = OBJECT_ID(N'[Cities]'))
+    SET IDENTITY_INSERT [Cities] OFF;
+2024-08-01 09:54:15.873 +02:00 [INF] Executed DbCommand (53ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Description', N'Name') AND [object_id] = OBJECT_ID(N'[Cities]'))
+    SET IDENTITY_INSERT [Cities] ON;
+INSERT INTO [Cities] ([Id], [Description], [Name])
+VALUES (1, 'The one with that big park.', 'New York City'),
+(2, 'The one with the cathedral that was never really finished.', 'Antwerp'),
+(3, 'The one with that big tower.', 'Paris');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'Description', N'Name') AND [object_id] = OBJECT_ID(N'[Cities]'))
+    SET IDENTITY_INSERT [Cities] OFF;
+2024-08-01 09:54:15.873 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:15.873 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:15.873 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:15.873 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'CityId', N'Description', N'Name') AND [object_id] = OBJECT_ID(N'[PointsOfInterest]'))
+    SET IDENTITY_INSERT [PointsOfInterest] ON;
+INSERT INTO [PointsOfInterest] ([Id], [CityId], [Description], [Name])
+VALUES (1, 1, 'The most visited urban park in the United States.', 'Central Park'),
+(2, 1, 'A 102-story skyscraper located in Midtown Manhattan.', 'Empire State Building'),
+(3, 2, 'A Gothic style cathedral.', 'Cathedral'),
+(4, 2, 'The finest example of railway architecture in Belgium.', 'Antwerp Central Station'),
+(5, 3, 'A wrought iron lattice tower on the Champ de Mars, named after engineer Gustave Eiffel.', 'Eiffel Tower'),
+(6, 3, 'The world''s largest museum.', 'The Louvre');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'CityId', N'Description', N'Name') AND [object_id] = OBJECT_ID(N'[PointsOfInterest]'))
+    SET IDENTITY_INSERT [PointsOfInterest] OFF;
+2024-08-01 09:54:15.883 +02:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'CityId', N'Description', N'Name') AND [object_id] = OBJECT_ID(N'[PointsOfInterest]'))
+    SET IDENTITY_INSERT [PointsOfInterest] ON;
+INSERT INTO [PointsOfInterest] ([Id], [CityId], [Description], [Name])
+VALUES (1, 1, 'The most visited urban park in the United States.', 'Central Park'),
+(2, 1, 'A 102-story skyscraper located in Midtown Manhattan.', 'Empire State Building'),
+(3, 2, 'A Gothic style cathedral.', 'Cathedral'),
+(4, 2, 'The finest example of railway architecture in Belgium.', 'Antwerp Central Station'),
+(5, 3, 'A wrought iron lattice tower on the Champ de Mars, named after engineer Gustave Eiffel.', 'Eiffel Tower'),
+(6, 3, 'The world''s largest museum.', 'The Louvre');
+IF EXISTS (SELECT * FROM [sys].[identity_columns] WHERE [name] IN (N'Id', N'CityId', N'Description', N'Name') AND [object_id] = OBJECT_ID(N'[PointsOfInterest]'))
+    SET IDENTITY_INSERT [PointsOfInterest] OFF;
+2024-08-01 09:54:18.367 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:18.367 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:18.367 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:18.367 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_PointsOfInterest_CityId] ON [PointsOfInterest] ([CityId]);
+2024-08-01 09:54:18.386 +02:00 [INF] Executed DbCommand (19ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_PointsOfInterest_CityId] ON [PointsOfInterest] ([CityId]);
+2024-08-01 09:54:18.386 +02:00 [DBG] Creating DbCommand for 'ExecuteNonQuery'.
+2024-08-01 09:54:18.386 +02:00 [DBG] Created DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:18.386 +02:00 [DBG] Initialized DbCommand for 'ExecuteNonQuery' (0ms).
+2024-08-01 09:54:18.386 +02:00 [DBG] Executing DbCommand [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20240731100049_InitialDataSeed', N'8.0.0');
+2024-08-01 09:54:18.388 +02:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20240731100049_InitialDataSeed', N'8.0.0');
+2024-08-01 09:54:18.389 +02:00 [DBG] Committing transaction.
+2024-08-01 09:54:18.395 +02:00 [DBG] Committed transaction.
+2024-08-01 09:54:18.396 +02:00 [DBG] Disposing transaction.
+2024-08-01 09:54:18.396 +02:00 [DBG] Closing connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:18.396 +02:00 [DBG] Closed connection to database 'provasasa' on server '.' (0ms).
+2024-08-01 09:54:18.397 +02:00 [DBG] 'CityInfoContext' disposed.
+2024-08-01 09:54:18.397 +02:00 [DBG] Disposing connection to database 'provasasa' on server '.'.
+2024-08-01 09:54:18.397 +02:00 [DBG] Disposed connection to database '' on server '' (0ms).

@@ -50,12 +50,8 @@ builder.Services.AddTransient<IMailService, LocalMailService>();
 builder.Services.AddTransient<IMailService, CloudMailService>();
 #endif
 builder.Services.AddSingleton<CitiesDataStore>();
-
-builder.Services.AddDbContext<CityInfoContext>(
-    dbContextOptions => dbContextOptions.UseSqlite(
-        builder.Configuration["ConnectionStrings:CityInfoDBConnectionString"]));
-//builder.Services.AddDbContext<CityInfoContext>(dbContextOptions
-//    => dbContextOptions.UseSqlServer("Server=localhost;Database=CityInfo;Trusted_Connection=True;User Id=sa;Password=Str0ng3R1PsWw!0Rd"));
+builder.Services.AddDbContext<CityInfoContext>(dbContextOptions 
+    => dbContextOptions.UseSqlite("Data Source=default.db"));
 var app = builder.Build();
 
 
