@@ -199,8 +199,7 @@ namespace CityInfo.API.Controllers
 
         char[] charArray = { 'A', 'B' };
 
-        char[] chasrArray = { 'A', 'B' };
-
+    
     }
 
 }
