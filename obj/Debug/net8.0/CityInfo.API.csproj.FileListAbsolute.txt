@@ -506,3 +506,4 @@ C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\obj\Debug\net8.0\CityInfo.API
 C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\obj\Debug\net8.0\CityInfo.API.genruntimeconfig.cache
 C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\obj\Debug\net8.0\ref\CityInfo.API.dll
 C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Admin.DT-ELE1\Documents\Develop\FirstRepo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
