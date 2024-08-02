@@ -141,3 +141,1211 @@ System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport 
 2024-07-29 14:40:32.462 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/_vs/browserLink - 200 null text/javascript; charset=UTF-8 212.0291ms
 2024-07-29 14:40:32.718 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - null null
 2024-07-29 14:40:32.970 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 253.1229ms
+2024-07-29 16:59:31.817 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 16:59:31.944 +02:00 [DBG] Hosting starting
+2024-07-29 16:59:32.171 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 16:59:32.172 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 16:59:32.174 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 16:59:32.174 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 16:59:32.175 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 16:59:32.177 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 16:59:32.178 +02:00 [INF] Hosting environment: Development
+2024-07-29 16:59:32.181 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 16:59:32.183 +02:00 [DBG] Hosting started
+2024-07-29 16:59:32.299 +02:00 [DBG] Connection id "0HN5FRS6RV1N5" accepted.
+2024-07-29 16:59:32.301 +02:00 [DBG] Connection id "0HN5FRS6RV1N5" started.
+2024-07-29 16:59:32.309 +02:00 [DBG] Connection id "0HN5FRS6RV1N6" accepted.
+2024-07-29 16:59:32.311 +02:00 [DBG] Connection id "0HN5FRS6RV1N6" started.
+2024-07-29 16:59:32.326 +02:00 [DBG] Connection id "0HN5FRS6RV1N6" received FIN.
+2024-07-29 16:59:32.326 +02:00 [DBG] Connection id "0HN5FRS6RV1N5" received FIN.
+2024-07-29 16:59:32.336 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:32.336 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:32.369 +02:00 [DBG] Connection id "0HN5FRS6RV1N5" stopped.
+2024-07-29 16:59:32.369 +02:00 [DBG] Connection id "0HN5FRS6RV1N6" stopped.
+2024-07-29 16:59:32.373 +02:00 [DBG] Connection id "0HN5FRS6RV1N5" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 16:59:32.373 +02:00 [DBG] Connection id "0HN5FRS6RV1N6" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 16:59:32.540 +02:00 [DBG] Connection id "0HN5FRS6RV1N7" accepted.
+2024-07-29 16:59:32.542 +02:00 [DBG] Connection id "0HN5FRS6RV1N7" started.
+2024-07-29 16:59:32.601 +02:00 [DBG] Connection id "0HN5FRS6RV1N8" accepted.
+2024-07-29 16:59:32.603 +02:00 [DBG] Connection id "0HN5FRS6RV1N8" started.
+2024-07-29 16:59:32.604 +02:00 [DBG] Connection id "0HN5FRS6RV1N7" received FIN.
+2024-07-29 16:59:32.608 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:32.609 +02:00 [DBG] Connection id "0HN5FRS6RV1N8" received FIN.
+2024-07-29 16:59:32.611 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:32.616 +02:00 [DBG] Connection id "0HN5FRS6RV1N7" stopped.
+2024-07-29 16:59:32.620 +02:00 [DBG] Connection id "0HN5FRS6RV1N8" stopped.
+2024-07-29 16:59:32.621 +02:00 [DBG] Connection id "0HN5FRS6RV1N7" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 16:59:32.623 +02:00 [DBG] Connection id "0HN5FRS6RV1N8" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 16:59:35.191 +02:00 [DBG] Connection id "0HN5FRS6RV1N9" accepted.
+2024-07-29 16:59:35.195 +02:00 [DBG] Connection id "0HN5FRS6RV1N9" started.
+2024-07-29 16:59:35.201 +02:00 [DBG] Connection id "0HN5FRS6RV1N9" received FIN.
+2024-07-29 16:59:35.203 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:35.204 +02:00 [DBG] Connection id "0HN5FRS6RV1NA" accepted.
+2024-07-29 16:59:35.212 +02:00 [DBG] Connection id "0HN5FRS6RV1N9" stopped.
+2024-07-29 16:59:35.214 +02:00 [DBG] Connection id "0HN5FRS6RV1NA" started.
+2024-07-29 16:59:35.215 +02:00 [DBG] Connection id "0HN5FRS6RV1NB" accepted.
+2024-07-29 16:59:35.220 +02:00 [DBG] Connection id "0HN5FRS6RV1N9" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 16:59:35.222 +02:00 [DBG] Connection id "0HN5FRS6RV1NB" started.
+2024-07-29 16:59:35.224 +02:00 [DBG] Connection id "0HN5FRS6RV1NA" received FIN.
+2024-07-29 16:59:35.224 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:35.229 +02:00 [DBG] Connection id "0HN5FRS6RV1NB" received FIN.
+2024-07-29 16:59:35.230 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:35.233 +02:00 [DBG] Connection id "0HN5FRS6RV1NA" stopped.
+2024-07-29 16:59:35.236 +02:00 [DBG] Connection id "0HN5FRS6RV1NB" stopped.
+2024-07-29 16:59:35.237 +02:00 [DBG] Connection id "0HN5FRS6RV1NA" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 16:59:35.238 +02:00 [DBG] Connection id "0HN5FRS6RV1NB" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 16:59:38.111 +02:00 [DBG] Connection id "0HN5FRS6RV1NC" accepted.
+2024-07-29 16:59:38.113 +02:00 [DBG] Connection id "0HN5FRS6RV1NC" started.
+2024-07-29 16:59:38.117 +02:00 [DBG] Connection id "0HN5FRS6RV1NC" received FIN.
+2024-07-29 16:59:38.119 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:38.119 +02:00 [DBG] Connection id "0HN5FRS6RV1ND" accepted.
+2024-07-29 16:59:38.123 +02:00 [DBG] Connection id "0HN5FRS6RV1NC" stopped.
+2024-07-29 16:59:38.124 +02:00 [DBG] Connection id "0HN5FRS6RV1ND" started.
+2024-07-29 16:59:38.125 +02:00 [DBG] Connection id "0HN5FRS6RV1NE" accepted.
+2024-07-29 16:59:38.126 +02:00 [DBG] Connection id "0HN5FRS6RV1NC" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 16:59:38.130 +02:00 [DBG] Connection id "0HN5FRS6RV1ND" received FIN.
+2024-07-29 16:59:38.129 +02:00 [DBG] Connection id "0HN5FRS6RV1NE" started.
+2024-07-29 16:59:38.131 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:38.136 +02:00 [DBG] Connection id "0HN5FRS6RV1NE" received FIN.
+2024-07-29 16:59:38.136 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 16:59:38.137 +02:00 [DBG] Connection id "0HN5FRS6RV1ND" stopped.
+2024-07-29 16:59:38.139 +02:00 [DBG] Connection id "0HN5FRS6RV1NE" stopped.
+2024-07-29 16:59:38.140 +02:00 [DBG] Connection id "0HN5FRS6RV1ND" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 16:59:38.141 +02:00 [DBG] Connection id "0HN5FRS6RV1NE" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:16.203 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:02:16.280 +02:00 [DBG] Hosting starting
+2024-07-29 17:02:16.429 +02:00 [DBG] Connection id "0HN5FRTNP7C2U" accepted.
+2024-07-29 17:02:16.431 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:02:16.431 +02:00 [DBG] Connection id "0HN5FRTNP7C2U" started.
+2024-07-29 17:02:16.432 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:02:16.433 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:02:16.434 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:02:16.438 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:02:16.439 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:02:16.440 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:02:16.441 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:02:16.442 +02:00 [DBG] Hosting started
+2024-07-29 17:02:16.456 +02:00 [DBG] Connection id "0HN5FRTNP7C2U" received FIN.
+2024-07-29 17:02:16.464 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:16.493 +02:00 [DBG] Connection id "0HN5FRTNP7C2U" stopped.
+2024-07-29 17:02:16.498 +02:00 [DBG] Connection id "0HN5FRTNP7C2U" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:16.665 +02:00 [DBG] Connection id "0HN5FRTNP7C2V" accepted.
+2024-07-29 17:02:16.667 +02:00 [DBG] Connection id "0HN5FRTNP7C2V" started.
+2024-07-29 17:02:16.689 +02:00 [DBG] Connection id "0HN5FRTNP7C2V" received FIN.
+2024-07-29 17:02:16.691 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:16.697 +02:00 [DBG] Connection id "0HN5FRTNP7C2V" stopped.
+2024-07-29 17:02:16.699 +02:00 [DBG] Connection id "0HN5FRTNP7C2V" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:16.724 +02:00 [DBG] Connection id "0HN5FRTNP7C30" accepted.
+2024-07-29 17:02:16.726 +02:00 [DBG] Connection id "0HN5FRTNP7C30" started.
+2024-07-29 17:02:16.728 +02:00 [DBG] Connection id "0HN5FRTNP7C31" accepted.
+2024-07-29 17:02:16.730 +02:00 [DBG] Connection id "0HN5FRTNP7C31" started.
+2024-07-29 17:02:16.732 +02:00 [DBG] Connection id "0HN5FRTNP7C30" received FIN.
+2024-07-29 17:02:16.733 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:16.736 +02:00 [DBG] Connection id "0HN5FRTNP7C31" received FIN.
+2024-07-29 17:02:16.737 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:16.739 +02:00 [DBG] Connection id "0HN5FRTNP7C30" stopped.
+2024-07-29 17:02:16.745 +02:00 [DBG] Connection id "0HN5FRTNP7C31" stopped.
+2024-07-29 17:02:16.747 +02:00 [DBG] Connection id "0HN5FRTNP7C30" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:16.750 +02:00 [DBG] Connection id "0HN5FRTNP7C31" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:23.431 +02:00 [DBG] Connection id "0HN5FRTNP7C32" accepted.
+2024-07-29 17:02:23.435 +02:00 [DBG] Connection id "0HN5FRTNP7C32" started.
+2024-07-29 17:02:23.440 +02:00 [DBG] Connection id "0HN5FRTNP7C33" accepted.
+2024-07-29 17:02:23.444 +02:00 [DBG] Connection id "0HN5FRTNP7C33" started.
+2024-07-29 17:02:23.445 +02:00 [DBG] Connection id "0HN5FRTNP7C32" received FIN.
+2024-07-29 17:02:23.447 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:23.453 +02:00 [DBG] Connection id "0HN5FRTNP7C33" received FIN.
+2024-07-29 17:02:23.455 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:23.457 +02:00 [DBG] Connection id "0HN5FRTNP7C32" stopped.
+2024-07-29 17:02:23.463 +02:00 [DBG] Connection id "0HN5FRTNP7C33" stopped.
+2024-07-29 17:02:23.463 +02:00 [DBG] Connection id "0HN5FRTNP7C32" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:23.465 +02:00 [DBG] Connection id "0HN5FRTNP7C33" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:24.808 +02:00 [DBG] Connection id "0HN5FRTNP7C34" accepted.
+2024-07-29 17:02:24.812 +02:00 [DBG] Connection id "0HN5FRTNP7C34" started.
+2024-07-29 17:02:24.815 +02:00 [DBG] Connection id "0HN5FRTNP7C35" accepted.
+2024-07-29 17:02:24.817 +02:00 [DBG] Connection id "0HN5FRTNP7C34" received FIN.
+2024-07-29 17:02:24.819 +02:00 [DBG] Connection id "0HN5FRTNP7C35" started.
+2024-07-29 17:02:24.819 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:24.826 +02:00 [DBG] Connection id "0HN5FRTNP7C35" received FIN.
+2024-07-29 17:02:24.827 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:24.827 +02:00 [DBG] Connection id "0HN5FRTNP7C34" stopped.
+2024-07-29 17:02:24.831 +02:00 [DBG] Connection id "0HN5FRTNP7C35" stopped.
+2024-07-29 17:02:24.832 +02:00 [DBG] Connection id "0HN5FRTNP7C34" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:24.833 +02:00 [DBG] Connection id "0HN5FRTNP7C35" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:25.047 +02:00 [DBG] Connection id "0HN5FRTNP7C36" accepted.
+2024-07-29 17:02:25.050 +02:00 [DBG] Connection id "0HN5FRTNP7C36" started.
+2024-07-29 17:02:25.057 +02:00 [DBG] Connection id "0HN5FRTNP7C37" accepted.
+2024-07-29 17:02:25.057 +02:00 [DBG] Connection id "0HN5FRTNP7C36" received FIN.
+2024-07-29 17:02:25.059 +02:00 [DBG] Connection id "0HN5FRTNP7C37" started.
+2024-07-29 17:02:25.059 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:25.067 +02:00 [DBG] Connection id "0HN5FRTNP7C37" received FIN.
+2024-07-29 17:02:25.068 +02:00 [DBG] Connection id "0HN5FRTNP7C36" stopped.
+2024-07-29 17:02:25.068 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:25.071 +02:00 [DBG] Connection id "0HN5FRTNP7C36" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:25.074 +02:00 [DBG] Connection id "0HN5FRTNP7C37" stopped.
+2024-07-29 17:02:25.077 +02:00 [DBG] Connection id "0HN5FRTNP7C37" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:25.232 +02:00 [DBG] Connection id "0HN5FRTNP7C38" accepted.
+2024-07-29 17:02:25.234 +02:00 [DBG] Connection id "0HN5FRTNP7C38" started.
+2024-07-29 17:02:25.240 +02:00 [DBG] Connection id "0HN5FRTNP7C38" received FIN.
+2024-07-29 17:02:25.241 +02:00 [DBG] Connection id "0HN5FRTNP7C39" accepted.
+2024-07-29 17:02:25.242 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:25.245 +02:00 [DBG] Connection id "0HN5FRTNP7C39" started.
+2024-07-29 17:02:25.249 +02:00 [DBG] Connection id "0HN5FRTNP7C38" stopped.
+2024-07-29 17:02:25.251 +02:00 [DBG] Connection id "0HN5FRTNP7C38" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:25.253 +02:00 [DBG] Connection id "0HN5FRTNP7C39" received FIN.
+2024-07-29 17:02:25.254 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:25.257 +02:00 [DBG] Connection id "0HN5FRTNP7C39" stopped.
+2024-07-29 17:02:25.259 +02:00 [DBG] Connection id "0HN5FRTNP7C39" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:25.407 +02:00 [DBG] Connection id "0HN5FRTNP7C3A" accepted.
+2024-07-29 17:02:25.409 +02:00 [DBG] Connection id "0HN5FRTNP7C3A" started.
+2024-07-29 17:02:25.416 +02:00 [DBG] Connection id "0HN5FRTNP7C3A" received FIN.
+2024-07-29 17:02:25.417 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:25.417 +02:00 [DBG] Connection id "0HN5FRTNP7C3B" accepted.
+2024-07-29 17:02:25.422 +02:00 [DBG] Connection id "0HN5FRTNP7C3A" stopped.
+2024-07-29 17:02:25.423 +02:00 [DBG] Connection id "0HN5FRTNP7C3B" started.
+2024-07-29 17:02:25.424 +02:00 [DBG] Connection id "0HN5FRTNP7C3C" accepted.
+2024-07-29 17:02:25.425 +02:00 [DBG] Connection id "0HN5FRTNP7C3A" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:25.428 +02:00 [DBG] Connection id "0HN5FRTNP7C3C" started.
+2024-07-29 17:02:25.430 +02:00 [DBG] Connection id "0HN5FRTNP7C3B" received FIN.
+2024-07-29 17:02:25.431 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:25.435 +02:00 [DBG] Connection id "0HN5FRTNP7C3C" received FIN.
+2024-07-29 17:02:25.436 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:25.436 +02:00 [DBG] Connection id "0HN5FRTNP7C3B" stopped.
+2024-07-29 17:02:25.439 +02:00 [DBG] Connection id "0HN5FRTNP7C3C" stopped.
+2024-07-29 17:02:25.440 +02:00 [DBG] Connection id "0HN5FRTNP7C3B" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:25.441 +02:00 [DBG] Connection id "0HN5FRTNP7C3C" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:25.591 +02:00 [DBG] Connection id "0HN5FRTNP7C3D" accepted.
+2024-07-29 17:02:25.594 +02:00 [DBG] Connection id "0HN5FRTNP7C3D" started.
+2024-07-29 17:02:25.599 +02:00 [DBG] Connection id "0HN5FRTNP7C3E" accepted.
+2024-07-29 17:02:25.600 +02:00 [DBG] Connection id "0HN5FRTNP7C3D" received FIN.
+2024-07-29 17:02:25.601 +02:00 [DBG] Connection id "0HN5FRTNP7C3E" started.
+2024-07-29 17:02:25.601 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:25.609 +02:00 [DBG] Connection id "0HN5FRTNP7C3E" received FIN.
+2024-07-29 17:02:25.610 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:25.610 +02:00 [DBG] Connection id "0HN5FRTNP7C3D" stopped.
+2024-07-29 17:02:25.615 +02:00 [DBG] Connection id "0HN5FRTNP7C3E" stopped.
+2024-07-29 17:02:25.616 +02:00 [DBG] Connection id "0HN5FRTNP7C3D" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:25.617 +02:00 [DBG] Connection id "0HN5FRTNP7C3E" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:51.462 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:02:51.543 +02:00 [DBG] Hosting starting
+2024-07-29 17:02:51.690 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:02:51.691 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:02:51.693 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:02:51.694 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:02:51.695 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:02:51.696 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:02:51.697 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:02:51.697 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:02:51.698 +02:00 [DBG] Hosting started
+2024-07-29 17:02:51.731 +02:00 [DBG] Connection id "0HN5FRU29SS59" accepted.
+2024-07-29 17:02:51.731 +02:00 [DBG] Connection id "0HN5FRU29SS5A" accepted.
+2024-07-29 17:02:51.733 +02:00 [DBG] Connection id "0HN5FRU29SS59" started.
+2024-07-29 17:02:51.733 +02:00 [DBG] Connection id "0HN5FRU29SS5A" started.
+2024-07-29 17:02:51.758 +02:00 [DBG] Connection id "0HN5FRU29SS5A" received FIN.
+2024-07-29 17:02:51.758 +02:00 [DBG] Connection id "0HN5FRU29SS59" received FIN.
+2024-07-29 17:02:51.765 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:51.765 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:51.792 +02:00 [DBG] Connection id "0HN5FRU29SS59" stopped.
+2024-07-29 17:02:51.792 +02:00 [DBG] Connection id "0HN5FRU29SS5A" stopped.
+2024-07-29 17:02:51.797 +02:00 [DBG] Connection id "0HN5FRU29SS59" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:51.797 +02:00 [DBG] Connection id "0HN5FRU29SS5A" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:51.865 +02:00 [DBG] Connection id "0HN5FRU29SS5B" accepted.
+2024-07-29 17:02:51.867 +02:00 [DBG] Connection id "0HN5FRU29SS5B" started.
+2024-07-29 17:02:51.886 +02:00 [DBG] Connection id "0HN5FRU29SS5B" received FIN.
+2024-07-29 17:02:51.888 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:51.891 +02:00 [DBG] Connection id "0HN5FRU29SS5B" stopped.
+2024-07-29 17:02:51.893 +02:00 [DBG] Connection id "0HN5FRU29SS5B" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:51.926 +02:00 [DBG] Connection id "0HN5FRU29SS5C" accepted.
+2024-07-29 17:02:51.928 +02:00 [DBG] Connection id "0HN5FRU29SS5C" started.
+2024-07-29 17:02:51.930 +02:00 [DBG] Connection id "0HN5FRU29SS5D" accepted.
+2024-07-29 17:02:51.932 +02:00 [DBG] Connection id "0HN5FRU29SS5D" started.
+2024-07-29 17:02:51.933 +02:00 [DBG] Connection id "0HN5FRU29SS5C" received FIN.
+2024-07-29 17:02:51.934 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:51.936 +02:00 [DBG] Connection id "0HN5FRU29SS5D" received FIN.
+2024-07-29 17:02:51.937 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:02:51.939 +02:00 [DBG] Connection id "0HN5FRU29SS5C" stopped.
+2024-07-29 17:02:51.944 +02:00 [DBG] Connection id "0HN5FRU29SS5D" stopped.
+2024-07-29 17:02:51.945 +02:00 [DBG] Connection id "0HN5FRU29SS5C" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:02:51.946 +02:00 [DBG] Connection id "0HN5FRU29SS5D" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:03:05.006 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:03:05.100 +02:00 [DBG] Hosting starting
+2024-07-29 17:03:05.258 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:03:05.259 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:03:05.260 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:03:05.261 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:03:05.262 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:03:05.263 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:03:05.264 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:03:05.265 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:03:05.266 +02:00 [DBG] Hosting started
+2024-07-29 17:03:05.731 +02:00 [DBG] Connection id "0HN5FRU6FD9BK" accepted.
+2024-07-29 17:03:05.735 +02:00 [DBG] Connection id "0HN5FRU6FD9BK" started.
+2024-07-29 17:03:05.744 +02:00 [DBG] Connection id "0HN5FRU6FD9BL" accepted.
+2024-07-29 17:03:05.747 +02:00 [DBG] Connection id "0HN5FRU6FD9BL" started.
+2024-07-29 17:03:05.757 +02:00 [DBG] Connection id "0HN5FRU6FD9BL" received FIN.
+2024-07-29 17:03:05.757 +02:00 [DBG] Connection id "0HN5FRU6FD9BK" received FIN.
+2024-07-29 17:03:05.765 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:03:05.765 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:03:05.792 +02:00 [DBG] Connection id "0HN5FRU6FD9BK" stopped.
+2024-07-29 17:03:05.792 +02:00 [DBG] Connection id "0HN5FRU6FD9BL" stopped.
+2024-07-29 17:03:05.797 +02:00 [DBG] Connection id "0HN5FRU6FD9BK" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:03:05.797 +02:00 [DBG] Connection id "0HN5FRU6FD9BL" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:03:05.868 +02:00 [DBG] Connection id "0HN5FRU6FD9BM" accepted.
+2024-07-29 17:03:05.873 +02:00 [DBG] Connection id "0HN5FRU6FD9BM" started.
+2024-07-29 17:03:05.890 +02:00 [DBG] Connection id "0HN5FRU6FD9BM" received FIN.
+2024-07-29 17:03:05.892 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:03:05.898 +02:00 [DBG] Connection id "0HN5FRU6FD9BM" stopped.
+2024-07-29 17:03:05.900 +02:00 [DBG] Connection id "0HN5FRU6FD9BM" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:03:05.921 +02:00 [DBG] Connection id "0HN5FRU6FD9BN" accepted.
+2024-07-29 17:03:05.923 +02:00 [DBG] Connection id "0HN5FRU6FD9BN" started.
+2024-07-29 17:03:05.925 +02:00 [DBG] Connection id "0HN5FRU6FD9BO" accepted.
+2024-07-29 17:03:05.927 +02:00 [DBG] Connection id "0HN5FRU6FD9BO" started.
+2024-07-29 17:03:05.929 +02:00 [DBG] Connection id "0HN5FRU6FD9BN" received FIN.
+2024-07-29 17:03:05.931 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:03:05.934 +02:00 [DBG] Connection id "0HN5FRU6FD9BO" received FIN.
+2024-07-29 17:03:05.935 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:03:05.937 +02:00 [DBG] Connection id "0HN5FRU6FD9BN" stopped.
+2024-07-29 17:03:05.941 +02:00 [DBG] Connection id "0HN5FRU6FD9BO" stopped.
+2024-07-29 17:03:05.944 +02:00 [DBG] Connection id "0HN5FRU6FD9BN" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:03:05.944 +02:00 [DBG] Connection id "0HN5FRU6FD9BO" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:04:55.574 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:04:55.647 +02:00 [DBG] Hosting starting
+2024-07-29 17:04:55.797 +02:00 [DBG] Connection id "0HN5FRV792R11" received FIN.
+2024-07-29 17:04:55.801 +02:00 [DBG] Connection id "0HN5FRV792R11" accepted.
+2024-07-29 17:04:55.803 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:04:55.807 +02:00 [DBG] Connection id "0HN5FRV792R11" started.
+2024-07-29 17:04:55.808 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:04:55.811 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:04:55.812 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:04:55.816 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:04:55.818 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:04:55.820 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:04:55.821 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:04:55.823 +02:00 [DBG] Hosting started
+2024-07-29 17:04:55.824 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:04:55.858 +02:00 [DBG] Connection id "0HN5FRV792R11" stopped.
+2024-07-29 17:04:55.863 +02:00 [DBG] Connection id "0HN5FRV792R11" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:04:55.899 +02:00 [DBG] Connection id "0HN5FRV792R12" accepted.
+2024-07-29 17:04:55.901 +02:00 [DBG] Connection id "0HN5FRV792R12" started.
+2024-07-29 17:04:55.919 +02:00 [DBG] Connection id "0HN5FRV792R12" received FIN.
+2024-07-29 17:04:55.928 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:04:55.933 +02:00 [DBG] Connection id "0HN5FRV792R12" stopped.
+2024-07-29 17:04:55.935 +02:00 [DBG] Connection id "0HN5FRV792R12" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:04:55.966 +02:00 [DBG] Connection id "0HN5FRV792R13" accepted.
+2024-07-29 17:04:55.968 +02:00 [DBG] Connection id "0HN5FRV792R13" started.
+2024-07-29 17:04:55.969 +02:00 [DBG] Connection id "0HN5FRV792R14" accepted.
+2024-07-29 17:04:55.971 +02:00 [DBG] Connection id "0HN5FRV792R14" started.
+2024-07-29 17:04:55.973 +02:00 [DBG] Connection id "0HN5FRV792R13" received FIN.
+2024-07-29 17:04:55.974 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:04:55.976 +02:00 [DBG] Connection id "0HN5FRV792R14" received FIN.
+2024-07-29 17:04:55.977 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:04:55.979 +02:00 [DBG] Connection id "0HN5FRV792R13" stopped.
+2024-07-29 17:04:55.984 +02:00 [DBG] Connection id "0HN5FRV792R14" stopped.
+2024-07-29 17:04:55.985 +02:00 [DBG] Connection id "0HN5FRV792R13" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:04:55.986 +02:00 [DBG] Connection id "0HN5FRV792R14" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:46.252 +02:00 [DBG] Connection id "0HN5FRV792R15" accepted.
+2024-07-29 17:06:46.264 +02:00 [DBG] Connection id "0HN5FRV792R15" started.
+2024-07-29 17:06:46.270 +02:00 [DBG] Connection id "0HN5FRV792R16" accepted.
+2024-07-29 17:06:46.272 +02:00 [DBG] Connection id "0HN5FRV792R16" started.
+2024-07-29 17:06:46.274 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Cannot determine the frame size or a corrupted frame was received.
+   at System.Net.Security.SslStream.GetFrameSize(ReadOnlySpan`1 buffer)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:46.279 +02:00 [DBG] Connection id "0HN5FRV792R15" stopped.
+2024-07-29 17:06:46.280 +02:00 [DBG] Connection id "0HN5FRV792R15" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:46.283 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Cannot determine the frame size or a corrupted frame was received.
+   at System.Net.Security.SslStream.GetFrameSize(ReadOnlySpan`1 buffer)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:46.286 +02:00 [DBG] Connection id "0HN5FRV792R16" stopped.
+2024-07-29 17:06:46.288 +02:00 [DBG] Connection id "0HN5FRV792R16" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:46.290 +02:00 [DBG] Connection id "0HN5FRV792R17" accepted.
+2024-07-29 17:06:46.291 +02:00 [DBG] Connection id "0HN5FRV792R17" started.
+2024-07-29 17:06:46.294 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Cannot determine the frame size or a corrupted frame was received.
+   at System.Net.Security.SslStream.GetFrameSize(ReadOnlySpan`1 buffer)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:46.298 +02:00 [DBG] Connection id "0HN5FRV792R17" stopped.
+2024-07-29 17:06:46.300 +02:00 [DBG] Connection id "0HN5FRV792R17" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:47.329 +02:00 [DBG] Connection id "0HN5FRV792R18" accepted.
+2024-07-29 17:06:47.332 +02:00 [DBG] Connection id "0HN5FRV792R18" started.
+2024-07-29 17:06:47.336 +02:00 [DBG] Connection id "0HN5FRV792R19" accepted.
+2024-07-29 17:06:47.337 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Cannot determine the frame size or a corrupted frame was received.
+   at System.Net.Security.SslStream.GetFrameSize(ReadOnlySpan`1 buffer)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:47.338 +02:00 [DBG] Connection id "0HN5FRV792R19" started.
+2024-07-29 17:06:47.344 +02:00 [DBG] Connection id "0HN5FRV792R18" stopped.
+2024-07-29 17:06:47.347 +02:00 [DBG] Connection id "0HN5FRV792R18" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:47.350 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Cannot determine the frame size or a corrupted frame was received.
+   at System.Net.Security.SslStream.GetFrameSize(ReadOnlySpan`1 buffer)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:47.355 +02:00 [DBG] Connection id "0HN5FRV792R19" stopped.
+2024-07-29 17:06:47.356 +02:00 [DBG] Connection id "0HN5FRV792R19" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:47.358 +02:00 [DBG] Connection id "0HN5FRV792R1A" accepted.
+2024-07-29 17:06:47.360 +02:00 [DBG] Connection id "0HN5FRV792R1A" started.
+2024-07-29 17:06:47.363 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Cannot determine the frame size or a corrupted frame was received.
+   at System.Net.Security.SslStream.GetFrameSize(ReadOnlySpan`1 buffer)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:47.367 +02:00 [DBG] Connection id "0HN5FRV792R1A" stopped.
+2024-07-29 17:06:47.369 +02:00 [DBG] Connection id "0HN5FRV792R1A" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:53.084 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:06:53.163 +02:00 [DBG] Hosting starting
+2024-07-29 17:06:53.313 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:06:53.315 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:06:53.316 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:06:53.317 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:06:53.317 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:06:53.318 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:06:53.320 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:06:53.321 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:06:53.322 +02:00 [DBG] Hosting started
+2024-07-29 17:06:53.330 +02:00 [DBG] Connection id "0HN5FS0A9UVMM" accepted.
+2024-07-29 17:06:53.331 +02:00 [DBG] Connection id "0HN5FS0A9UVMM" started.
+2024-07-29 17:06:53.340 +02:00 [DBG] Connection id "0HN5FS0A9UVMN" accepted.
+2024-07-29 17:06:53.341 +02:00 [DBG] Connection id "0HN5FS0A9UVMN" started.
+2024-07-29 17:06:53.357 +02:00 [DBG] Connection id "0HN5FS0A9UVMN" received FIN.
+2024-07-29 17:06:53.357 +02:00 [DBG] Connection id "0HN5FS0A9UVMM" received FIN.
+2024-07-29 17:06:53.365 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:53.365 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:53.392 +02:00 [DBG] Connection id "0HN5FS0A9UVMN" stopped.
+2024-07-29 17:06:53.392 +02:00 [DBG] Connection id "0HN5FS0A9UVMM" stopped.
+2024-07-29 17:06:53.396 +02:00 [DBG] Connection id "0HN5FS0A9UVMN" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:53.396 +02:00 [DBG] Connection id "0HN5FS0A9UVMM" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:53.457 +02:00 [DBG] Connection id "0HN5FS0A9UVMO" accepted.
+2024-07-29 17:06:53.459 +02:00 [DBG] Connection id "0HN5FS0A9UVMO" started.
+2024-07-29 17:06:53.481 +02:00 [DBG] Connection id "0HN5FS0A9UVMO" received FIN.
+2024-07-29 17:06:53.483 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:53.486 +02:00 [DBG] Connection id "0HN5FS0A9UVMO" stopped.
+2024-07-29 17:06:53.487 +02:00 [DBG] Connection id "0HN5FS0A9UVMO" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:53.536 +02:00 [DBG] Connection id "0HN5FS0A9UVMP" accepted.
+2024-07-29 17:06:53.537 +02:00 [DBG] Connection id "0HN5FS0A9UVMP" started.
+2024-07-29 17:06:53.538 +02:00 [DBG] Connection id "0HN5FS0A9UVMQ" accepted.
+2024-07-29 17:06:53.541 +02:00 [DBG] Connection id "0HN5FS0A9UVMQ" started.
+2024-07-29 17:06:53.544 +02:00 [DBG] Connection id "0HN5FS0A9UVMP" received FIN.
+2024-07-29 17:06:53.545 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:53.545 +02:00 [DBG] Connection id "0HN5FS0A9UVMQ" received FIN.
+2024-07-29 17:06:53.551 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:06:53.553 +02:00 [DBG] Connection id "0HN5FS0A9UVMP" stopped.
+2024-07-29 17:06:53.557 +02:00 [DBG] Connection id "0HN5FS0A9UVMQ" stopped.
+2024-07-29 17:06:53.558 +02:00 [DBG] Connection id "0HN5FS0A9UVMP" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:06:53.561 +02:00 [DBG] Connection id "0HN5FS0A9UVMQ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:07:29.011 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:07:29.087 +02:00 [DBG] Hosting starting
+2024-07-29 17:07:29.267 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:07:29.268 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:07:29.272 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:07:29.274 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:07:29.277 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:07:29.278 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:07:29.279 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:07:29.280 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:07:29.280 +02:00 [DBG] Hosting started
+2024-07-29 17:07:29.728 +02:00 [DBG] Connection id "0HN5FS0L52RGD" accepted.
+2024-07-29 17:07:29.731 +02:00 [DBG] Connection id "0HN5FS0L52RGD" started.
+2024-07-29 17:07:29.740 +02:00 [DBG] Connection id "0HN5FS0L52RGD" received FIN.
+2024-07-29 17:07:29.740 +02:00 [DBG] Connection id "0HN5FS0L52RGE" received FIN.
+2024-07-29 17:07:29.741 +02:00 [DBG] Connection id "0HN5FS0L52RGE" accepted.
+2024-07-29 17:07:29.742 +02:00 [DBG] Connection id "0HN5FS0L52RGE" started.
+2024-07-29 17:07:29.746 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:07:29.746 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:07:29.774 +02:00 [DBG] Connection id "0HN5FS0L52RGD" stopped.
+2024-07-29 17:07:29.774 +02:00 [DBG] Connection id "0HN5FS0L52RGE" stopped.
+2024-07-29 17:07:29.778 +02:00 [DBG] Connection id "0HN5FS0L52RGD" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:07:29.778 +02:00 [DBG] Connection id "0HN5FS0L52RGE" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:07:29.850 +02:00 [DBG] Connection id "0HN5FS0L52RGF" accepted.
+2024-07-29 17:07:29.852 +02:00 [DBG] Connection id "0HN5FS0L52RGF" started.
+2024-07-29 17:07:29.872 +02:00 [DBG] Connection id "0HN5FS0L52RGF" received FIN.
+2024-07-29 17:07:29.878 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:07:29.882 +02:00 [DBG] Connection id "0HN5FS0L52RGF" stopped.
+2024-07-29 17:07:29.883 +02:00 [DBG] Connection id "0HN5FS0L52RGF" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:07:29.915 +02:00 [DBG] Connection id "0HN5FS0L52RGG" accepted.
+2024-07-29 17:07:29.916 +02:00 [DBG] Connection id "0HN5FS0L52RGG" started.
+2024-07-29 17:07:29.918 +02:00 [DBG] Connection id "0HN5FS0L52RGH" accepted.
+2024-07-29 17:07:29.919 +02:00 [DBG] Connection id "0HN5FS0L52RGH" started.
+2024-07-29 17:07:29.922 +02:00 [DBG] Connection id "0HN5FS0L52RGG" received FIN.
+2024-07-29 17:07:29.924 +02:00 [DBG] Connection id "0HN5FS0L52RGH" received FIN.
+2024-07-29 17:07:29.932 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:07:29.932 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:07:29.935 +02:00 [DBG] Connection id "0HN5FS0L52RGG" stopped.
+2024-07-29 17:07:29.937 +02:00 [DBG] Connection id "0HN5FS0L52RGH" stopped.
+2024-07-29 17:07:29.938 +02:00 [DBG] Connection id "0HN5FS0L52RGG" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:07:29.940 +02:00 [DBG] Connection id "0HN5FS0L52RGH" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:07:36.864 +02:00 [DBG] Connection id "0HN5FS0L52RGI" accepted.
+2024-07-29 17:07:36.868 +02:00 [DBG] Connection id "0HN5FS0L52RGI" started.
+2024-07-29 17:07:36.871 +02:00 [DBG] Connection id "0HN5FS0L52RGJ" accepted.
+2024-07-29 17:07:36.873 +02:00 [DBG] Connection id "0HN5FS0L52RGJ" started.
+2024-07-29 17:07:36.875 +02:00 [DBG] Connection id "0HN5FS0L52RGI" received FIN.
+2024-07-29 17:07:36.876 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:07:36.881 +02:00 [DBG] Connection id "0HN5FS0L52RGJ" received FIN.
+2024-07-29 17:07:36.883 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:07:36.885 +02:00 [DBG] Connection id "0HN5FS0L52RGI" stopped.
+2024-07-29 17:07:36.889 +02:00 [DBG] Connection id "0HN5FS0L52RGJ" stopped.
+2024-07-29 17:07:36.890 +02:00 [DBG] Connection id "0HN5FS0L52RGI" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:07:36.891 +02:00 [DBG] Connection id "0HN5FS0L52RGJ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:16:16.089 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:16:16.169 +02:00 [DBG] Hosting starting
+2024-07-29 17:16:16.311 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:16:16.312 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:16:16.313 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:16:16.314 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:16:16.314 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:16:16.315 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:16:16.316 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:16:16.317 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:16:16.318 +02:00 [DBG] Hosting started
+2024-07-29 17:16:16.628 +02:00 [DBG] Connection id "0HN5FS5I6007I" received FIN.
+2024-07-29 17:16:16.628 +02:00 [DBG] Connection id "0HN5FS5I6007J" received FIN.
+2024-07-29 17:16:16.634 +02:00 [DBG] Connection id "0HN5FS5I6007J" accepted.
+2024-07-29 17:16:16.634 +02:00 [DBG] Connection id "0HN5FS5I6007I" accepted.
+2024-07-29 17:16:16.636 +02:00 [DBG] Connection id "0HN5FS5I6007J" started.
+2024-07-29 17:16:16.637 +02:00 [DBG] Connection id "0HN5FS5I6007I" started.
+2024-07-29 17:16:16.651 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:16:16.651 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:16:16.682 +02:00 [DBG] Connection id "0HN5FS5I6007J" stopped.
+2024-07-29 17:16:16.683 +02:00 [DBG] Connection id "0HN5FS5I6007I" stopped.
+2024-07-29 17:16:16.688 +02:00 [DBG] Connection id "0HN5FS5I6007J" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:16:16.688 +02:00 [DBG] Connection id "0HN5FS5I6007I" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:16:16.763 +02:00 [DBG] Connection id "0HN5FS5I6007K" accepted.
+2024-07-29 17:16:16.765 +02:00 [DBG] Connection id "0HN5FS5I6007K" started.
+2024-07-29 17:16:16.787 +02:00 [DBG] Connection id "0HN5FS5I6007K" received FIN.
+2024-07-29 17:16:16.794 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:16:16.800 +02:00 [DBG] Connection id "0HN5FS5I6007K" stopped.
+2024-07-29 17:16:16.802 +02:00 [DBG] Connection id "0HN5FS5I6007K" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:16:16.840 +02:00 [DBG] Connection id "0HN5FS5I6007L" accepted.
+2024-07-29 17:16:16.841 +02:00 [DBG] Connection id "0HN5FS5I6007L" started.
+2024-07-29 17:16:16.843 +02:00 [DBG] Connection id "0HN5FS5I6007M" accepted.
+2024-07-29 17:16:16.845 +02:00 [DBG] Connection id "0HN5FS5I6007M" started.
+2024-07-29 17:16:16.847 +02:00 [DBG] Connection id "0HN5FS5I6007L" received FIN.
+2024-07-29 17:16:16.853 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:16:16.854 +02:00 [DBG] Connection id "0HN5FS5I6007M" received FIN.
+2024-07-29 17:16:16.855 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.Security.Authentication.AuthenticationException: Authentication failed, see inner exception.
+ ---> System.ComponentModel.Win32Exception (0x80090327): Errore sconosciuto durante l'elaborazione del certificato.
+   --- End of inner exception stack trace ---
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:16:16.857 +02:00 [DBG] Connection id "0HN5FS5I6007L" stopped.
+2024-07-29 17:16:16.861 +02:00 [DBG] Connection id "0HN5FS5I6007M" stopped.
+2024-07-29 17:16:16.863 +02:00 [DBG] Connection id "0HN5FS5I6007L" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:16:16.863 +02:00 [DBG] Connection id "0HN5FS5I6007M" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:20:35.201 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:20:35.278 +02:00 [DBG] Hosting starting
+2024-07-29 17:20:35.381 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:20:35.382 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:20:35.383 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:20:35.384 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:20:35.385 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:20:35.386 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:20:35.387 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:20:35.388 +02:00 [DBG] Hosting started
+2024-07-29 17:20:35.473 +02:00 [DBG] Connection id "0HN5FS7VAH3BN" accepted.
+2024-07-29 17:20:35.473 +02:00 [DBG] Connection id "0HN5FS7VAH3BM" accepted.
+2024-07-29 17:20:35.475 +02:00 [DBG] Connection id "0HN5FS7VAH3BN" started.
+2024-07-29 17:20:35.476 +02:00 [DBG] Connection id "0HN5FS7VAH3BM" started.
+2024-07-29 17:20:35.488 +02:00 [DBG] Connection id "0HN5FS7VAH3BM" received FIN.
+2024-07-29 17:20:35.488 +02:00 [DBG] Connection id "0HN5FS7VAH3BN" received FIN.
+2024-07-29 17:20:35.500 +02:00 [DBG] Connection id "0HN5FS7VAH3BM" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:20:35.500 +02:00 [DBG] Connection id "0HN5FS7VAH3BN" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:20:35.503 +02:00 [DBG] Connection id "0HN5FS7VAH3BM" disconnecting.
+2024-07-29 17:20:35.504 +02:00 [DBG] Connection id "0HN5FS7VAH3BN" disconnecting.
+2024-07-29 17:20:35.505 +02:00 [DBG] Connection id "0HN5FS7VAH3BM" stopped.
+2024-07-29 17:20:35.505 +02:00 [DBG] Connection id "0HN5FS7VAH3BN" stopped.
+2024-07-29 17:20:35.584 +02:00 [DBG] Connection id "0HN5FS7VAH3BO" accepted.
+2024-07-29 17:20:35.585 +02:00 [DBG] Connection id "0HN5FS7VAH3BO" started.
+2024-07-29 17:20:35.649 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger - null null
+2024-07-29 17:20:35.657 +02:00 [DBG] Connection id "0HN5FS7VAH3BP" accepted.
+2024-07-29 17:20:35.659 +02:00 [DBG] Connection id "0HN5FS7VAH3BP" started.
+2024-07-29 17:20:35.794 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 17:20:35.839 +02:00 [DBG] Connection id "0HN5FS7VAH3BO" completed keep alive response.
+2024-07-29 17:20:35.841 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger - 301 0 null 197.2266ms
+2024-07-29 17:20:35.846 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/index.html - null null
+2024-07-29 17:20:35.886 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-07-29 17:20:35.888 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-07-29 17:20:35.895 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-07-29 17:20:35.897 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-07-29 17:20:35.898 +02:00 [DBG] Connection id "0HN5FS7VAH3BQ" accepted.
+2024-07-29 17:20:35.898 +02:00 [DBG] Connection id "0HN5FS7VAH3BO" completed keep alive response.
+2024-07-29 17:20:35.899 +02:00 [DBG] Connection id "0HN5FS7VAH3BQ" started.
+2024-07-29 17:20:35.899 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui.css - null null
+2024-07-29 17:20:35.900 +02:00 [DBG] Connection id "0HN5FS7VAH3BR" accepted.
+2024-07-29 17:20:35.901 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/index.html - 200 null text/html;charset=utf-8 54.1996ms
+2024-07-29 17:20:35.901 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui-bundle.js - null null
+2024-07-29 17:20:35.904 +02:00 [DBG] Connection id "0HN5FS7VAH3BS" accepted.
+2024-07-29 17:20:35.913 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_vs/browserLink - null null
+2024-07-29 17:20:35.904 +02:00 [DBG] Connection id "0HN5FS7VAH3BR" started.
+2024-07-29 17:20:35.917 +02:00 [DBG] Connection id "0HN5FS7VAH3BS" started.
+2024-07-29 17:20:35.930 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui-standalone-preset.js - null null
+2024-07-29 17:20:35.934 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-29 17:20:35.938 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-07-29 17:20:35.952 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-07-29 17:20:35.955 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-07-29 17:20:35.961 +02:00 [DBG] Connection id "0HN5FS7VAH3BS" completed keep alive response.
+2024-07-29 17:20:35.961 +02:00 [DBG] Connection id "0HN5FS7VAH3BP" completed keep alive response.
+2024-07-29 17:20:35.966 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui.css - 200 152034 text/css 67.8252ms
+2024-07-29 17:20:35.963 +02:00 [DBG] Connection id "0HN5FS7VAH3BR" completed keep alive response.
+2024-07-29 17:20:35.965 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 31.5707ms
+2024-07-29 17:20:35.971 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 40.7216ms
+2024-07-29 17:20:35.964 +02:00 [DBG] Connection id "0HN5FS7VAH3BQ" completed keep alive response.
+2024-07-29 17:20:35.981 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 79.3729ms
+2024-07-29 17:20:36.004 +02:00 [DBG] Connection id "0HN5FS7VAH3BO" completed keep alive response.
+2024-07-29 17:20:36.005 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/_vs/browserLink - 200 null text/javascript; charset=UTF-8 92.4858ms
+2024-07-29 17:20:36.134 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - null null
+2024-07-29 17:20:36.150 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5169/swagger/favicon-32x32.png - null null
+2024-07-29 17:20:36.154 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-07-29 17:20:36.156 +02:00 [DBG] Connection id "0HN5FS7VAH3BS" completed keep alive response.
+2024-07-29 17:20:36.157 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/favicon-32x32.png - 200 628 image/png 7.7843ms
+2024-07-29 17:20:36.243 +02:00 [DBG] Connection id "0HN5FS7VAH3BO" completed keep alive response.
+2024-07-29 17:20:36.245 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5169/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 111.4527ms
+2024-07-29 17:30:59.680 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:30:59.760 +02:00 [DBG] Hosting starting
+2024-07-29 17:30:59.901 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:30:59.902 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:30:59.904 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:30:59.905 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:30:59.906 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:30:59.907 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:30:59.908 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:30:59.909 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:30:59.910 +02:00 [DBG] Hosting started
+2024-07-29 17:31:00.196 +02:00 [DBG] Connection id "0HN5FSDPGBC9R" received FIN.
+2024-07-29 17:31:00.200 +02:00 [DBG] Connection id "0HN5FSDPGBC9R" accepted.
+2024-07-29 17:31:00.202 +02:00 [DBG] Connection id "0HN5FSDPGBC9R" started.
+2024-07-29 17:31:00.215 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:31:00.242 +02:00 [DBG] Connection id "0HN5FSDPGBC9R" stopped.
+2024-07-29 17:31:00.246 +02:00 [DBG] Connection id "0HN5FSDPGBC9R" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:31:00.312 +02:00 [DBG] Connection id "0HN5FSDPGBC9S" accepted.
+2024-07-29 17:31:00.313 +02:00 [DBG] Connection id "0HN5FSDPGBC9S" started.
+2024-07-29 17:31:00.318 +02:00 [DBG] Connection id "0HN5FSDPGBC9T" accepted.
+2024-07-29 17:31:00.319 +02:00 [DBG] Connection id "0HN5FSDPGBC9T" started.
+2024-07-29 17:31:00.336 +02:00 [DBG] Connection id "0HN5FSDPGBC9S" received FIN.
+2024-07-29 17:31:00.356 +02:00 [DBG] Connection 0HN5FSDPGBC9T established using the following protocol: "Tls13"
+2024-07-29 17:31:00.356 +02:00 [DBG] Connection 0HN5FSDPGBC9S established using the following protocol: "Tls13"
+2024-07-29 17:31:00.419 +02:00 [DBG] Connection id "0HN5FSDPGBC9S" is closed. The last processed stream ID was 0.
+2024-07-29 17:31:00.423 +02:00 [DBG] Connection id "0HN5FSDPGBC9S" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:31:00.426 +02:00 [DBG] The connection queue processing loop for 0HN5FSDPGBC9S completed.
+2024-07-29 17:31:00.429 +02:00 [DBG] Connection id "0HN5FSDPGBC9S" stopped.
+2024-07-29 17:31:00.446 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger - null null
+2024-07-29 17:31:00.527 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 17:31:00.540 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger - 301 0 null 98.6426ms
+2024-07-29 17:31:00.544 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/index.html - null null
+2024-07-29 17:31:00.589 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-07-29 17:31:00.591 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-07-29 17:31:00.605 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-07-29 17:31:00.606 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/swagger-ui.css - null null
+2024-07-29 17:31:00.607 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/swagger-ui-standalone-preset.js - null null
+2024-07-29 17:31:00.606 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-07-29 17:31:00.606 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-29 17:31:00.617 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/index.html - 200 null text/html;charset=utf-8 73.5269ms
+2024-07-29 17:31:00.637 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 29.9392ms
+2024-07-29 17:31:00.607 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/_vs/browserLink - null null
+2024-07-29 17:31:00.606 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/swagger-ui-bundle.js - null null
+2024-07-29 17:31:00.644 +02:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-07-29 17:31:00.644 +02:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-07-29 17:31:00.656 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/swagger-ui.css - 200 152034 text/css 48.8575ms
+2024-07-29 17:31:00.657 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 51.0763ms
+2024-07-29 17:31:00.680 +02:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-07-29 17:31:00.682 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 76.7495ms
+2024-07-29 17:31:00.699 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/_vs/browserLink - 200 null text/javascript; charset=UTF-8 92.5266ms
+2024-07-29 17:31:00.857 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - null null
+2024-07-29 17:31:00.864 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/favicon-32x32.png - null null
+2024-07-29 17:31:00.867 +02:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-07-29 17:31:00.869 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/favicon-32x32.png - 200 628 image/png 6.4035ms
+2024-07-29 17:31:00.955 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 98.231ms
+2024-07-29 17:31:59.474 +02:00 [DBG] Connection id "0HN5FSDPGBC9U" accepted.
+2024-07-29 17:31:59.474 +02:00 [DBG] Connection id "0HN5FSDPGBC9U" received FIN.
+2024-07-29 17:31:59.486 +02:00 [DBG] Connection id "0HN5FSDPGBC9V" accepted.
+2024-07-29 17:31:59.482 +02:00 [DBG] Connection id "0HN5FSDPGBC9U" started.
+2024-07-29 17:31:59.492 +02:00 [DBG] Connection id "0HN5FSDPGBC9V" started.
+2024-07-29 17:31:59.494 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:31:59.498 +02:00 [DBG] Connection id "0HN5FSDPGBC9U" stopped.
+2024-07-29 17:31:59.500 +02:00 [DBG] Connection id "0HN5FSDPGBC9U" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:31:59.501 +02:00 [DBG] Connection 0HN5FSDPGBC9V established using the following protocol: "Tls13"
+2024-07-29 17:31:59.506 +02:00 [INF] Request starting HTTP/1.1 GET https://localhost:7079/api/cities/1/pointsofinterest - null null
+2024-07-29 17:31:59.510 +02:00 [DBG] The request path  does not match the path filter
+2024-07-29 17:31:59.537 +02:00 [DBG] 1 candidate(s) found for the request path '/api/cities/1/pointsofinterest'
+2024-07-29 17:31:59.541 +02:00 [DBG] Endpoint 'CityInfo.API.Controllers.PointsOfInterestController.GetPointsOfInterest (CityInfo.API)' with route pattern 'api/cities/{cityid}/pointsofinterest' is valid for the request path '/api/cities/1/pointsofinterest'
+2024-07-29 17:31:59.544 +02:00 [DBG] Request matched endpoint 'CityInfo.API.Controllers.PointsOfInterestController.GetPointsOfInterest (CityInfo.API)'
+2024-07-29 17:31:59.550 +02:00 [INF] Executing endpoint 'CityInfo.API.Controllers.PointsOfInterestController.GetPointsOfInterest (CityInfo.API)'
+2024-07-29 17:31:59.574 +02:00 [INF] Route matched with {action = "GetPointsOfInterest", controller = "PointsOfInterest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[CityInfo.API.Models.PointOfInterestDto]] GetPointsOfInterest(Int32) on controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API).
+2024-07-29 17:31:59.579 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-07-29 17:31:59.581 +02:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-07-29 17:31:59.583 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-07-29 17:31:59.585 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-07-29 17:31:59.586 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-07-29 17:31:59.590 +02:00 [DBG] Executing controller factory for controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API)
+2024-07-29 17:31:59.593 +02:00 [DBG] Executed controller factory for controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API)
+2024-07-29 17:31:59.606 +02:00 [DBG] Attempting to bind parameter 'cityId' of type 'System.Int32' ...
+2024-07-29 17:31:59.609 +02:00 [DBG] Attempting to bind parameter 'cityId' of type 'System.Int32' using the name 'cityId' in request data ...
+2024-07-29 17:31:59.612 +02:00 [DBG] Done attempting to bind parameter 'cityId' of type 'System.Int32'.
+2024-07-29 17:31:59.613 +02:00 [DBG] Done attempting to bind parameter 'cityId' of type 'System.Int32'.
+2024-07-29 17:31:59.615 +02:00 [DBG] Attempting to validate the bound parameter 'cityId' of type 'System.Int32' ...
+2024-07-29 17:31:59.618 +02:00 [DBG] Done attempting to validate the bound parameter 'cityId' of type 'System.Int32'.
+2024-07-29 17:31:59.623 +02:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.XmlDataContractSerializerOutputFormatter"]
+2024-07-29 17:31:59.627 +02:00 [DBG] No information found on request to perform content negotiation.
+2024-07-29 17:31:59.628 +02:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-07-29 17:31:59.629 +02:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-07-29 17:31:59.631 +02:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.NewtonsoftJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-07-29 17:31:59.633 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CityInfo.API.Models.PointOfInterestDto, CityInfo.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-29 17:31:59.868 +02:00 [INF] Executed action CityInfo.API.Controllers.PointsOfInterestController.GetPointsOfInterest (CityInfo.API) in 276.9462ms
+2024-07-29 17:31:59.870 +02:00 [INF] Executed endpoint 'CityInfo.API.Controllers.PointsOfInterestController.GetPointsOfInterest (CityInfo.API)'
+2024-07-29 17:31:59.871 +02:00 [DBG] Connection id "0HN5FSDPGBC9V" completed keep alive response.
+2024-07-29 17:31:59.872 +02:00 [INF] Request finished HTTP/1.1 GET https://localhost:7079/api/cities/1/pointsofinterest - 200 207 application/json; charset=utf-8 365.4268ms
+2024-07-29 17:48:14.308 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:48:14.383 +02:00 [DBG] Hosting starting
+2024-07-29 17:48:14.530 +02:00 [DBG] Connection id "0HN5FSNDOH1QE" accepted.
+2024-07-29 17:48:14.530 +02:00 [DBG] Connection id "0HN5FSNDOH1QF" accepted.
+2024-07-29 17:48:14.530 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:48:14.532 +02:00 [DBG] Connection id "0HN5FSNDOH1QF" started.
+2024-07-29 17:48:14.532 +02:00 [DBG] Connection id "0HN5FSNDOH1QE" started.
+2024-07-29 17:48:14.533 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:48:14.536 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:48:14.539 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:48:14.540 +02:00 [DBG] Connection id "0HN5FSNDOH1QF" received FIN.
+2024-07-29 17:48:14.540 +02:00 [DBG] Connection id "0HN5FSNDOH1QE" received FIN.
+2024-07-29 17:48:14.540 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:48:14.543 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:48:14.544 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:48:14.545 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:48:14.546 +02:00 [DBG] Hosting started
+2024-07-29 17:48:14.547 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:48:14.546 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:48:14.575 +02:00 [DBG] Connection id "0HN5FSNDOH1QF" stopped.
+2024-07-29 17:48:14.575 +02:00 [DBG] Connection id "0HN5FSNDOH1QE" stopped.
+2024-07-29 17:48:14.580 +02:00 [DBG] Connection id "0HN5FSNDOH1QF" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:48:14.580 +02:00 [DBG] Connection id "0HN5FSNDOH1QE" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:48:14.736 +02:00 [DBG] Connection id "0HN5FSNDOH1QG" accepted.
+2024-07-29 17:48:14.738 +02:00 [DBG] Connection id "0HN5FSNDOH1QG" started.
+2024-07-29 17:48:14.769 +02:00 [DBG] Connection 0HN5FSNDOH1QG established using the following protocol: "Tls13"
+2024-07-29 17:48:14.813 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/index.html - null null
+2024-07-29 17:48:14.899 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 17:48:14.950 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-07-29 17:48:14.952 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-07-29 17:48:14.965 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-07-29 17:48:14.967 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-07-29 17:48:14.969 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/_vs/browserLink - null null
+2024-07-29 17:48:14.969 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-29 17:48:14.971 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/index.html - 200 null text/html;charset=utf-8 162.1961ms
+2024-07-29 17:48:14.980 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 10.1285ms
+2024-07-29 17:48:15.010 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/_vs/browserLink - 200 null text/javascript; charset=UTF-8 40.7383ms
+2024-07-29 17:48:15.190 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - null null
+2024-07-29 17:48:15.282 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 91.692ms
+2024-07-29 17:48:27.585 +02:00 [DBG] Connection id "0HN5FSNDOH1QH" received FIN.
+2024-07-29 17:48:27.585 +02:00 [DBG] Connection id "0HN5FSNDOH1QH" accepted.
+2024-07-29 17:48:27.588 +02:00 [DBG] Connection id "0HN5FSNDOH1QH" started.
+2024-07-29 17:48:27.589 +02:00 [DBG] Connection id "0HN5FSNDOH1QI" accepted.
+2024-07-29 17:48:27.595 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:48:27.596 +02:00 [DBG] Connection id "0HN5FSNDOH1QI" started.
+2024-07-29 17:48:27.603 +02:00 [DBG] Connection id "0HN5FSNDOH1QH" stopped.
+2024-07-29 17:48:27.608 +02:00 [DBG] Connection id "0HN5FSNDOH1QH" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:48:27.615 +02:00 [DBG] Connection 0HN5FSNDOH1QI established using the following protocol: "Tls13"
+2024-07-29 17:48:27.623 +02:00 [INF] Request starting HTTP/1.1 DELETE https://localhost:7079/api/cities/1/pointsofinterest/1 - null null
+2024-07-29 17:48:27.629 +02:00 [DBG] DELETE requests are not supported
+2024-07-29 17:48:27.656 +02:00 [DBG] 1 candidate(s) found for the request path '/api/cities/1/pointsofinterest/1'
+2024-07-29 17:48:27.661 +02:00 [DBG] Endpoint 'CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API)' with route pattern 'api/cities/{cityid}/pointsofinterest/{pointOfInterestId}' is valid for the request path '/api/cities/1/pointsofinterest/1'
+2024-07-29 17:48:27.664 +02:00 [DBG] Request matched endpoint 'CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API)'
+2024-07-29 17:48:27.668 +02:00 [INF] Executing endpoint 'CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API)'
+2024-07-29 17:48:27.693 +02:00 [INF] Route matched with {action = "DeletePointOfInterest", controller = "PointsOfInterest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult DeletePointOfInterest(Int32, Int32) on controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API).
+2024-07-29 17:48:27.696 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-07-29 17:48:27.697 +02:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-07-29 17:48:27.698 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-07-29 17:48:27.700 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-07-29 17:48:27.701 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-07-29 17:48:27.704 +02:00 [DBG] Executing controller factory for controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API)
+2024-07-29 17:48:27.706 +02:00 [DBG] Executed controller factory for controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API)
+2024-07-29 17:48:27.722 +02:00 [DBG] Attempting to bind parameter 'cityId' of type 'System.Int32' ...
+2024-07-29 17:48:27.724 +02:00 [DBG] Attempting to bind parameter 'cityId' of type 'System.Int32' using the name 'cityId' in request data ...
+2024-07-29 17:48:27.726 +02:00 [DBG] Done attempting to bind parameter 'cityId' of type 'System.Int32'.
+2024-07-29 17:48:27.728 +02:00 [DBG] Done attempting to bind parameter 'cityId' of type 'System.Int32'.
+2024-07-29 17:48:27.729 +02:00 [DBG] Attempting to validate the bound parameter 'cityId' of type 'System.Int32' ...
+2024-07-29 17:48:27.734 +02:00 [DBG] Done attempting to validate the bound parameter 'cityId' of type 'System.Int32'.
+2024-07-29 17:48:27.736 +02:00 [DBG] Attempting to bind parameter 'pointOfInterestId' of type 'System.Int32' ...
+2024-07-29 17:48:27.738 +02:00 [DBG] Attempting to bind parameter 'pointOfInterestId' of type 'System.Int32' using the name 'pointOfInterestId' in request data ...
+2024-07-29 17:48:27.739 +02:00 [DBG] Done attempting to bind parameter 'pointOfInterestId' of type 'System.Int32'.
+2024-07-29 17:48:27.741 +02:00 [DBG] Done attempting to bind parameter 'pointOfInterestId' of type 'System.Int32'.
+2024-07-29 17:48:27.742 +02:00 [DBG] Attempting to validate the bound parameter 'pointOfInterestId' of type 'System.Int32' ...
+2024-07-29 17:48:27.744 +02:00 [DBG] Done attempting to validate the bound parameter 'pointOfInterestId' of type 'System.Int32'.
+2024-07-29 17:48:27.751 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2024-07-29 17:48:27.755 +02:00 [INF] Executed action CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API) in 49.7387ms
+2024-07-29 17:48:27.756 +02:00 [INF] Executed endpoint 'CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API)'
+2024-07-29 17:48:27.758 +02:00 [DBG] Connection id "0HN5FSNDOH1QI" completed keep alive response.
+2024-07-29 17:48:27.759 +02:00 [INF] Request finished HTTP/1.1 DELETE https://localhost:7079/api/cities/1/pointsofinterest/1 - 204 null null 136.4159ms
+2024-07-29 17:55:05.881 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2024-07-29 17:55:05.954 +02:00 [DBG] Hosting starting
+2024-07-29 17:55:06.087 +02:00 [INF] Now listening on: https://localhost:7079
+2024-07-29 17:55:06.088 +02:00 [INF] Now listening on: http://localhost:5169
+2024-07-29 17:55:06.089 +02:00 [DBG] Loaded hosting startup assembly CityInfo.API
+2024-07-29 17:55:06.089 +02:00 [DBG] Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-07-29 17:55:06.090 +02:00 [DBG] Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-07-29 17:55:06.091 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-29 17:55:06.091 +02:00 [INF] Hosting environment: Development
+2024-07-29 17:55:06.092 +02:00 [INF] Content root path: C:\Users\Admin.DT-ELE1\Documents\Development
+2024-07-29 17:55:06.093 +02:00 [DBG] Hosting started
+2024-07-29 17:55:06.346 +02:00 [DBG] Connection id "0HN5FSR8FTGNJ" accepted.
+2024-07-29 17:55:06.346 +02:00 [DBG] Connection id "0HN5FSR8FTGNK" accepted.
+2024-07-29 17:55:06.348 +02:00 [DBG] Connection id "0HN5FSR8FTGNJ" started.
+2024-07-29 17:55:06.349 +02:00 [DBG] Connection id "0HN5FSR8FTGNK" started.
+2024-07-29 17:55:06.379 +02:00 [DBG] Connection id "0HN5FSR8FTGNJ" received FIN.
+2024-07-29 17:55:06.379 +02:00 [DBG] Connection id "0HN5FSR8FTGNK" received FIN.
+2024-07-29 17:55:06.386 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:55:06.386 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:55:06.420 +02:00 [DBG] Connection id "0HN5FSR8FTGNJ" stopped.
+2024-07-29 17:55:06.420 +02:00 [DBG] Connection id "0HN5FSR8FTGNK" stopped.
+2024-07-29 17:55:06.424 +02:00 [DBG] Connection id "0HN5FSR8FTGNK" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:55:06.424 +02:00 [DBG] Connection id "0HN5FSR8FTGNJ" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:55:06.563 +02:00 [DBG] Connection id "0HN5FSR8FTGNL" accepted.
+2024-07-29 17:55:06.565 +02:00 [DBG] Connection id "0HN5FSR8FTGNL" started.
+2024-07-29 17:55:06.594 +02:00 [DBG] Connection 0HN5FSR8FTGNL established using the following protocol: "Tls13"
+2024-07-29 17:55:06.636 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/index.html - null null
+2024-07-29 17:55:06.717 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-07-29 17:55:06.769 +02:00 [DBG] Response markup is scheduled to include Browser Link script injection.
+2024-07-29 17:55:06.771 +02:00 [DBG] Response markup is scheduled to include browser refresh script injection.
+2024-07-29 17:55:06.784 +02:00 [DBG] Response markup was updated to include Browser Link script injection.
+2024-07-29 17:55:06.786 +02:00 [DBG] Response markup was updated to include browser refresh script injection.
+2024-07-29 17:55:06.790 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/_vs/browserLink - null null
+2024-07-29 17:55:06.790 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/_framework/aspnetcore-browser-refresh.js - null null
+2024-07-29 17:55:06.795 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/index.html - 200 null text/html;charset=utf-8 157.683ms
+2024-07-29 17:55:06.810 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript; charset=utf-8 20.881ms
+2024-07-29 17:55:06.837 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/_vs/browserLink - 200 null text/javascript; charset=UTF-8 47.7169ms
+2024-07-29 17:55:06.894 +02:00 [INF] Request starting HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - null null
+2024-07-29 17:55:06.989 +02:00 [INF] Request finished HTTP/2 GET https://localhost:7079/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 95.3692ms
+2024-07-29 17:55:19.850 +02:00 [DBG] Connection id "0HN5FSR8FTGNM" received FIN.
+2024-07-29 17:55:19.850 +02:00 [DBG] Connection id "0HN5FSR8FTGNM" accepted.
+2024-07-29 17:55:19.857 +02:00 [DBG] Connection id "0HN5FSR8FTGNM" started.
+2024-07-29 17:55:19.859 +02:00 [DBG] Connection id "0HN5FSR8FTGNN" accepted.
+2024-07-29 17:55:19.866 +02:00 [DBG] Connection id "0HN5FSR8FTGNN" started.
+2024-07-29 17:55:19.866 +02:00 [DBG] Failed to authenticate HTTPS connection.
+System.IO.IOException: Received an unexpected EOF or 0 bytes from the transport stream.
+   at System.Net.Security.SslStream.ReceiveHandshakeFrameAsync[TIOAdapter](CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](Boolean receiveFirst, Byte[] reAuthenticationData, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.ProcessAuthenticationWithTelemetryAsync(Boolean isAsync, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Https.Internal.HttpsConnectionMiddleware.OnConnectionAsync(ConnectionContext context)
+2024-07-29 17:55:19.869 +02:00 [DBG] Connection id "0HN5FSR8FTGNM" stopped.
+2024-07-29 17:55:19.873 +02:00 [DBG] Connection 0HN5FSR8FTGNN established using the following protocol: "Tls13"
+2024-07-29 17:55:19.876 +02:00 [DBG] Connection id "0HN5FSR8FTGNM" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-07-29 17:55:19.885 +02:00 [INF] Request starting HTTP/1.1 DELETE https://localhost:7079/api/cities/1/pointsofinterest/1 - null null
+2024-07-29 17:55:19.892 +02:00 [DBG] DELETE requests are not supported
+2024-07-29 17:55:19.921 +02:00 [DBG] 1 candidate(s) found for the request path '/api/cities/1/pointsofinterest/1'
+2024-07-29 17:55:19.926 +02:00 [DBG] Endpoint 'CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API)' with route pattern 'api/cities/{cityid}/pointsofinterest/{pointOfInterestId}' is valid for the request path '/api/cities/1/pointsofinterest/1'
+2024-07-29 17:55:19.929 +02:00 [DBG] Request matched endpoint 'CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API)'
+2024-07-29 17:55:19.933 +02:00 [INF] Executing endpoint 'CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API)'
+2024-07-29 17:55:19.955 +02:00 [INF] Route matched with {action = "DeletePointOfInterest", controller = "PointsOfInterest"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult DeletePointOfInterest(Int32, Int32) on controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API).
+2024-07-29 17:55:19.959 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2024-07-29 17:55:19.963 +02:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2024-07-29 17:55:19.965 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2024-07-29 17:55:19.967 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2024-07-29 17:55:19.969 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2024-07-29 17:55:19.973 +02:00 [DBG] Executing controller factory for controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API)
+2024-07-29 17:55:19.981 +02:00 [DBG] Executed controller factory for controller CityInfo.API.Controllers.PointsOfInterestController (CityInfo.API)
+2024-07-29 17:55:20.003 +02:00 [DBG] Attempting to bind parameter 'cityId' of type 'System.Int32' ...
+2024-07-29 17:55:20.007 +02:00 [DBG] Attempting to bind parameter 'cityId' of type 'System.Int32' using the name 'cityId' in request data ...
+2024-07-29 17:55:20.010 +02:00 [DBG] Done attempting to bind parameter 'cityId' of type 'System.Int32'.
+2024-07-29 17:55:20.012 +02:00 [DBG] Done attempting to bind parameter 'cityId' of type 'System.Int32'.
+2024-07-29 17:55:20.014 +02:00 [DBG] Attempting to validate the bound parameter 'cityId' of type 'System.Int32' ...
+2024-07-29 17:55:20.018 +02:00 [DBG] Done attempting to validate the bound parameter 'cityId' of type 'System.Int32'.
+2024-07-29 17:55:20.021 +02:00 [DBG] Attempting to bind parameter 'pointOfInterestId' of type 'System.Int32' ...
+2024-07-29 17:55:20.023 +02:00 [DBG] Attempting to bind parameter 'pointOfInterestId' of type 'System.Int32' using the name 'pointOfInterestId' in request data ...
+2024-07-29 17:55:20.026 +02:00 [DBG] Done attempting to bind parameter 'pointOfInterestId' of type 'System.Int32'.
+2024-07-29 17:55:20.028 +02:00 [DBG] Done attempting to bind parameter 'pointOfInterestId' of type 'System.Int32'.
+2024-07-29 17:55:20.031 +02:00 [DBG] Attempting to validate the bound parameter 'pointOfInterestId' of type 'System.Int32' ...
+2024-07-29 17:55:20.032 +02:00 [DBG] Done attempting to validate the bound parameter 'pointOfInterestId' of type 'System.Int32'.
+2024-07-29 17:55:20.039 +02:00 [INF] Executing StatusCodeResult, setting HTTP status code 204
+2024-07-29 17:55:20.044 +02:00 [INF] Executed action CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API) in 70.1078ms
+2024-07-29 17:55:20.046 +02:00 [INF] Executed endpoint 'CityInfo.API.Controllers.PointsOfInterestController.DeletePointOfInterest (CityInfo.API)'
+2024-07-29 17:55:20.049 +02:00 [DBG] Connection id "0HN5FSR8FTGNN" completed keep alive response.
+2024-07-29 17:55:20.050 +02:00 [INF] Request finished HTTP/1.1 DELETE https://localhost:7079/api/cities/1/pointsofinterest/1 - 204 null null 165.4804ms
